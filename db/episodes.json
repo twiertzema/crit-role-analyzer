@@ -1,0 +1,2920 @@
+[
+  {
+    "title": "Arrival at Kraghammer",
+    "airdate": "2015-03-12 19:00 PDT",
+    "runtime": 10995,
+    "next_href": "/wiki/Into_the_Greyspine_Mines",
+    "href": "/wiki/Arrival_at_Kraghammer"
+  },
+  {
+    "title": "Into the Greyspine Mines",
+    "airdate": "2015-03-19 19:00 PDT",
+    "runtime": 11980,
+    "next_href": "/wiki/Strange_Bedfellows",
+    "href": "/wiki/Into_the_Greyspine_Mines"
+  },
+  {
+    "title": "Strange Bedfellows",
+    "airdate": "2015-03-26 19:00 PDT",
+    "runtime": 9376,
+    "next_href": "/wiki/Attack_on_the_Duergar_Warcamp",
+    "href": "/wiki/Strange_Bedfellows"
+  },
+  {
+    "title": "Attack on the Duergar Warcamp",
+    "airdate": "2015-04-02 19:00 PDT",
+    "runtime": 16962,
+    "next_href": "/wiki/The_Trick_about_Falling",
+    "href": "/wiki/Attack_on_the_Duergar_Warcamp"
+  },
+  {
+    "title": "The Trick about Falling",
+    "airdate": "2015-04-09 19:00 PDT",
+    "runtime": 11381,
+    "next_href": "/wiki/Breaching_the_Emberhold",
+    "href": "/wiki/The_Trick_about_Falling"
+  },
+  {
+    "title": "Breaching the Emberhold",
+    "airdate": "2015-04-16 19:00 PDT",
+    "runtime": 10620,
+    "next_href": "/wiki/The_Throne_Room",
+    "href": "/wiki/Breaching_the_Emberhold"
+  },
+  {
+    "title": "The Throne Room",
+    "airdate": "2015-04-23 19:00 PDT",
+    "runtime": 14321,
+    "next_href": "/wiki/Glass_and_Bone",
+    "href": "/wiki/The_Throne_Room"
+  },
+  {
+    "title": "Glass and Bone",
+    "airdate": "2015-04-30 19:00 PDT",
+    "runtime": 10885,
+    "next_href": "/wiki/Yug%27Voril_Uncovered",
+    "href": "/wiki/Glass_and_Bone"
+  },
+  {
+    "title": "Yug'Voril Uncovered",
+    "airdate": "2015-05-07 19:00 PDT",
+    "runtime": 11152,
+    "next_href": "/wiki/K%27Varn_Revealed",
+    "href": "/wiki/Yug%27Voril_Uncovered"
+  },
+  {
+    "title": "K'Varn Revealed",
+    "airdate": "2015-05-14 19:00 PDT",
+    "runtime": 16714,
+    "next_href": "/wiki/The_Temple_Showdown",
+    "href": "/wiki/K%27Varn_Revealed"
+  },
+  {
+    "title": "The Temple Showdown",
+    "airdate": "2015-05-21 19:00 PDT",
+    "runtime": 19954,
+    "next_href": "/wiki/Dungeons_%26_Dragons_Campaign_Tips",
+    "href": "/wiki/The_Temple_Showdown"
+  },
+  {
+    "title": "Dungeons & Dragons Campaign Tips",
+    "airdate": "2015-05-28 19:00 PDT",
+    "runtime": 13029,
+    "next_href": "/wiki/Escape_from_the_Underdark",
+    "href": "/wiki/Dungeons_%26_Dragons_Campaign_Tips"
+  },
+  {
+    "title": "Escape from the Underdark",
+    "airdate": "2015-06-04 19:00 PDT",
+    "runtime": 12517,
+    "next_href": "/wiki/Shopping_and_Shipping",
+    "href": "/wiki/Escape_from_the_Underdark"
+  },
+  {
+    "title": "Shopping and Shipping",
+    "airdate": "2015-06-11 19:00 PDT",
+    "runtime": 12074,
+    "next_href": "/wiki/Skyward",
+    "href": "/wiki/Shopping_and_Shipping"
+  },
+  {
+    "title": "Skyward",
+    "airdate": "2015-06-25 19:00 PDT",
+    "runtime": 14941,
+    "next_href": "/wiki/Enter_Vasselheim",
+    "href": "/wiki/Skyward"
+  },
+  {
+    "title": "Enter Vasselheim",
+    "airdate": "2015-07-02 19:00 PDT",
+    "runtime": 10658,
+    "next_href": "/wiki/How_to_Score_a_Massive_Hit",
+    "href": "/wiki/Enter_Vasselheim"
+  },
+  {
+    "title": "How to Score a Massive Hit",
+    "airdate": "2015-07-09 1600 PDT",
+    "runtime": 3059,
+    "next_href": "/wiki/Hubris",
+    "href": "/wiki/How_to_Score_a_Massive_Hit"
+  },
+  {
+    "title": "Hubris",
+    "airdate": "2015-07-23 19:00 PDT",
+    "runtime": 14743,
+    "next_href": "/wiki/Trial_of_the_Take:_Part_1",
+    "href": "/wiki/Hubris"
+  },
+  {
+    "title": "Trial of the Take: Part 1",
+    "airdate": "2015-07-30 19:00 PDT",
+    "runtime": 10919,
+    "next_href": "/wiki/Trial_of_the_Take:_Part_2",
+    "href": "/wiki/Trial_of_the_Take:_Part_1"
+  },
+  {
+    "title": "Trial of the Take: Part 2",
+    "airdate": "2015-08-06 19:00 PDT",
+    "runtime": 16984,
+    "next_href": "/wiki/Trial_of_the_Take:_Part_3",
+    "href": "/wiki/Trial_of_the_Take:_Part_2"
+  },
+  {
+    "title": "Trial of the Take: Part 3",
+    "airdate": "2015-08-13 19:00 PDT",
+    "runtime": 11684,
+    "next_href": "/wiki/Trial_of_the_Take:_Part_4",
+    "href": "/wiki/Trial_of_the_Take:_Part_3"
+  },
+  {
+    "title": "Trial of the Take: Part 4",
+    "airdate": "2015-08-20 19:00 PDT",
+    "runtime": 17059,
+    "next_href": "/wiki/Aramente_to_Pyrah",
+    "href": "/wiki/Trial_of_the_Take:_Part_4"
+  },
+  {
+    "title": "Aramente to Pyrah",
+    "airdate": "2015-08-27 19:00 PDT",
+    "runtime": 16827,
+    "next_href": "/wiki/The_Rematch",
+    "href": "/wiki/Aramente_to_Pyrah"
+  },
+  {
+    "title": "The Rematch",
+    "airdate": "2015-09-10 19:00 PDT",
+    "runtime": 13936,
+    "next_href": "/wiki/The_Feast",
+    "href": "/wiki/The_Rematch"
+  },
+  {
+    "title": "The Feast",
+    "airdate": "2015-09-17 19:00 PDT",
+    "runtime": 14162,
+    "next_href": "/wiki/Crimson_Diplomacy",
+    "href": "/wiki/The_Feast"
+  },
+  {
+    "title": "Crimson Diplomacy",
+    "airdate": "2015-09-24 19:00 PDT",
+    "runtime": 13632,
+    "next_href": "/wiki/Consequences_and_Cows",
+    "href": "/wiki/Crimson_Diplomacy"
+  },
+  {
+    "title": "Consequences and Cows",
+    "airdate": "2015-10-01 19:00 PDT",
+    "runtime": 16878,
+    "next_href": "/wiki/Critical_Trolls_for_Extra_Life",
+    "href": "/wiki/Consequences_and_Cows"
+  },
+  {
+    "title": "Critical Trolls for Extra Life",
+    "airdate": "2015-10-03 21:00 PDT",
+    "runtime": 11303,
+    "next_href": "/wiki/The_Path_to_Whitestone",
+    "href": "/wiki/Critical_Trolls_for_Extra_Life"
+  },
+  {
+    "title": "The Path to Whitestone",
+    "airdate": "2015-10-08 19:00 PDT",
+    "runtime": 12840,
+    "next_href": "/wiki/The_Sun_Tree_(episode)",
+    "href": "/wiki/The_Path_to_Whitestone"
+  },
+  {
+    "title": "The Sun Tree (episode)",
+    "airdate": "2015-10-15 19:00 PDT",
+    "runtime": 11280,
+    "next_href": "/wiki/D%26Diesel",
+    "href": "/wiki/The_Sun_Tree_(episode)"
+  },
+  {
+    "title": "D&Diesel",
+    "airdate": "2015-10-19",
+    "runtime": 1785,
+    "next_href": "/wiki/Whispers",
+    "href": "/wiki/D%26Diesel"
+  },
+  {
+    "title": "Whispers",
+    "airdate": "2015-10-22 19:00 PDT",
+    "runtime": 14640,
+    "next_href": "/wiki/Stoke_the_Flames",
+    "href": "/wiki/Whispers"
+  },
+  {
+    "title": "Stoke the Flames",
+    "airdate": "2015-10-29 19:00 PDT",
+    "runtime": 11700,
+    "next_href": "/wiki/Gunpowder_Plot",
+    "href": "/wiki/Stoke_the_Flames"
+  },
+  {
+    "title": "Gunpowder Plot",
+    "airdate": "2015-11-05 19:00 PST",
+    "runtime": 11757,
+    "next_href": "/wiki/November_2015_Critmas",
+    "href": "/wiki/Gunpowder_Plot"
+  },
+  {
+    "title": "November 2015 Critmas",
+    "airdate": "2015-11-05",
+    "runtime": 5337,
+    "next_href": "/wiki/Against_the_Tide_of_Bone",
+    "href": "/wiki/November_2015_Critmas"
+  },
+  {
+    "title": "Against the Tide of Bone",
+    "airdate": "2015-11-12 19:00 PST",
+    "runtime": 12989,
+    "next_href": "/wiki/Reunions",
+    "href": "/wiki/Against_the_Tide_of_Bone"
+  },
+  {
+    "title": "Reunions",
+    "airdate": "2015-11-19 19:00 PST",
+    "runtime": 15862,
+    "next_href": "/wiki/Race_to_the_Ziggurat",
+    "href": "/wiki/Reunions"
+  },
+  {
+    "title": "Race to the Ziggurat",
+    "airdate": "2015-12-03 19:00 PST",
+    "runtime": 16893,
+    "next_href": "/wiki/Denouement",
+    "href": "/wiki/Race_to_the_Ziggurat"
+  },
+  {
+    "title": "Denouement",
+    "airdate": "2015-12-10 19:00 PST",
+    "runtime": 11696,
+    "next_href": "/wiki/December_2015_Critmas",
+    "href": "/wiki/Denouement"
+  },
+  {
+    "title": "December 2015 Critmas",
+    "airdate": "2015-12-10 19:00 PST",
+    "runtime": 6655,
+    "next_href": "/wiki/Winter%27s_Crest_in_Whitestone",
+    "href": "/wiki/December_2015_Critmas"
+  },
+  {
+    "title": "Winter's Crest in Whitestone",
+    "airdate": "2015-12-17 19:00 PST",
+    "runtime": 10104,
+    "next_href": "/wiki/The_Story_of_Vox_Machina",
+    "href": "/wiki/Winter%27s_Crest_in_Whitestone"
+  },
+  {
+    "title": "The Story of Vox Machina",
+    "airdate": "2016-01-06",
+    "runtime": 1304,
+    "next_href": "/wiki/A_Musician%27s_Nostalgia",
+    "href": "/wiki/The_Story_of_Vox_Machina"
+  },
+  {
+    "title": "A Musician's Nostalgia",
+    "airdate": "2016-01-07 19:00 PST",
+    "runtime": 15808,
+    "next_href": "/wiki/Echoes_of_the_Past",
+    "href": "/wiki/A_Musician%27s_Nostalgia"
+  },
+  {
+    "title": "Echoes of the Past",
+    "airdate": "2016-01-14 19:00 PST",
+    "runtime": 15716,
+    "next_href": "/wiki/Omens",
+    "href": "/wiki/Echoes_of_the_Past"
+  },
+  {
+    "title": "Omens",
+    "airdate": "2016-01-21 19:00 PST",
+    "runtime": 14151,
+    "next_href": "/wiki/Desperate_Measures",
+    "href": "/wiki/Omens"
+  },
+  {
+    "title": "Desperate Measures",
+    "airdate": "2016-01-28 19:00 PST",
+    "runtime": 10906,
+    "next_href": "/wiki/In_Ruins",
+    "href": "/wiki/Desperate_Measures"
+  },
+  {
+    "title": "In Ruins",
+    "airdate": "2016-02-04 19:00 PST",
+    "runtime": 16361,
+    "next_href": "/wiki/Dangerous_Dealings",
+    "href": "/wiki/In_Ruins"
+  },
+  {
+    "title": "Dangerous Dealings",
+    "airdate": "2016-02-11 19:00 PST",
+    "runtime": 13130,
+    "next_href": "/wiki/Return_to_Vasselheim",
+    "href": "/wiki/Dangerous_Dealings"
+  },
+  {
+    "title": "Return to Vasselheim",
+    "airdate": "2016-02-18 19:00 PST",
+    "runtime": 13473,
+    "next_href": "/wiki/Wizard_World_Gaming_Portland_Panel",
+    "href": "/wiki/Return_to_Vasselheim"
+  },
+  {
+    "title": "Wizard World Gaming Portland Panel",
+    "airdate": "2016-02-20 14:45 PST",
+    "runtime": 4116,
+    "next_href": "/wiki/Critical_Role_Q%26A_and_Battle_Royale!",
+    "href": "/wiki/Wizard_World_Gaming_Portland_Panel"
+  },
+  {
+    "title": "Critical Role Q&A and Battle Royale!",
+    "airdate": "2016-02-25 19:00 PST",
+    "runtime": 13270,
+    "next_href": "/wiki/The_Sunken_Tomb",
+    "href": "/wiki/Critical_Role_Q%26A_and_Battle_Royale!"
+  },
+  {
+    "title": "The Sunken Tomb",
+    "airdate": "2016-03-10 19:00 PST",
+    "runtime": 17726,
+    "next_href": "/wiki/Those_Who_Walk_Away",
+    "href": "/wiki/The_Sunken_Tomb"
+  },
+  {
+    "title": "Those Who Walk Away",
+    "airdate": "2016-03-17 19:00 PDT",
+    "runtime": 11004,
+    "next_href": "/wiki/Cindergrove_Revisited",
+    "href": "/wiki/Those_Who_Walk_Away"
+  },
+  {
+    "title": "Cindergrove Revisited",
+    "airdate": "2016-03-24 19:00 PDT",
+    "runtime": 12183,
+    "next_href": "/wiki/The_Family_Business",
+    "href": "/wiki/Cindergrove_Revisited"
+  },
+  {
+    "title": "The Family Business",
+    "airdate": "2016-03-31 19:00 PDT",
+    "runtime": 10833,
+    "next_href": "/wiki/Into_the_Frostweald",
+    "href": "/wiki/The_Family_Business"
+  },
+  {
+    "title": "Into the Frostweald",
+    "airdate": "2016-04-07 19:00 PDT",
+    "runtime": 12277,
+    "next_href": "/wiki/A_Name_Is_Earned",
+    "href": "/wiki/Into_the_Frostweald"
+  },
+  {
+    "title": "A Name Is Earned",
+    "airdate": "2016-04-14 19:00 PDT",
+    "runtime": 17492,
+    "next_href": "/wiki/To_the_Poop!_Goblins:_A_Critical_Role_Pathfinder_One-Shot",
+    "href": "/wiki/A_Name_Is_Earned"
+  },
+  {
+    "title": "To the Poop! Goblins: A Critical Role Pathfinder One-Shot",
+    "airdate": "2016-04-18 19:00 PDT",
+    "runtime": 12721,
+    "next_href": "/wiki/Best_Laid_Plans...",
+    "href": "/wiki/To_the_Poop!_Goblins:_A_Critical_Role_Pathfinder_One-Shot"
+  },
+  {
+    "title": "Best Laid Plans...",
+    "airdate": "2016-04-21 19:00 PDT",
+    "runtime": 21345,
+    "next_href": "/wiki/Test_of_Pride",
+    "href": "/wiki/Best_Laid_Plans..."
+  },
+  {
+    "title": "Test of Pride",
+    "airdate": "2016-04-28 19:00 PDT",
+    "runtime": 10465,
+    "next_href": "/wiki/The_Kill_Box",
+    "href": "/wiki/Test_of_Pride"
+  },
+  {
+    "title": "The Kill Box",
+    "airdate": "2016-05-05 19:00 PDT",
+    "runtime": 11967,
+    "next_href": "/wiki/At_Dawn,_We_Plan!",
+    "href": "/wiki/The_Kill_Box"
+  },
+  {
+    "title": "At Dawn, We Plan!",
+    "airdate": "2016-05-12 19:00 PDT",
+    "runtime": 13056,
+    "next_href": "/wiki/In_the_Belly_of_the_Beast",
+    "href": "/wiki/At_Dawn,_We_Plan!"
+  },
+  {
+    "title": "In the Belly of the Beast",
+    "airdate": "2016-05-19 19:00 PDT",
+    "runtime": 16007,
+    "next_href": "/wiki/Critical_Role_Q%26A_and_Battle_Royale:_Take_II",
+    "href": "/wiki/In_the_Belly_of_the_Beast"
+  },
+  {
+    "title": "Critical Role Q&A and Battle Royale: Take II",
+    "airdate": "2016-05-26 19:00 PST",
+    "runtime": 16259,
+    "next_href": "/wiki/Umbrasyl_(episode)",
+    "href": "/wiki/Critical_Role_Q%26A_and_Battle_Royale:_Take_II"
+  },
+  {
+    "title": "Umbrasyl",
+    "airdate": "2016-06-02 19:00 PDT",
+    "runtime": 15417,
+    "next_href": "/wiki/Hope",
+    "href": "/wiki/Umbrasyl_(episode)"
+  },
+  {
+    "title": "Hope",
+    "airdate": "2016-06-09 19:00 PDT",
+    "runtime": 13994,
+    "next_href": "/wiki/Duskmeadow",
+    "href": "/wiki/Hope"
+  },
+  {
+    "title": "Duskmeadow (Episode)",
+    "airdate": "2016-06-16 19:00 PDT",
+    "runtime": 13552,
+    "next_href": "/wiki/A_Cycle_of_Vengeance",
+    "href": "/wiki/Duskmeadow"
+  },
+  {
+    "title": "A Cycle of Vengeance",
+    "airdate": "2016-06-23 19:00 PDT",
+    "runtime": 13732,
+    "next_href": "/wiki/Deadlands_One-Shot_for_MDA_Charity!",
+    "href": "/wiki/A_Cycle_of_Vengeance"
+  },
+  {
+    "title": "Deadlands One-Shot for MDA Charity!",
+    "airdate": "2016-06-25 17:00 PDT",
+    "runtime": 10247,
+    "next_href": "/wiki/Critical_Role_EXTRA_%E2%80%93_Liam%27s_Quest!",
+    "href": "/wiki/Deadlands_One-Shot_for_MDA_Charity!"
+  },
+  {
+    "title": "Critical Role EXTRA \u2013 Liam's Quest!",
+    "airdate": "2016-06-30 19:00 PDT",
+    "runtime": 11525,
+    "next_href": "/wiki/The_Feywild",
+    "href": "/wiki/Critical_Role_EXTRA_%E2%80%93_Liam%27s_Quest!"
+  },
+  {
+    "title": "The Feywild",
+    "airdate": "2016-07-07 19:00 PDT",
+    "runtime": 11313,
+    "next_href": "/wiki/Heredity_and_Hats",
+    "href": "/wiki/The_Feywild"
+  },
+  {
+    "title": "Heredity and Hats",
+    "airdate": "2016-07-14 19:00 PDT",
+    "runtime": 9755,
+    "next_href": "/wiki/Critical_Role%27s_%27The_Dating_Game%27_Panel_%E2%80%93_SDCC_2016",
+    "href": "/wiki/Heredity_and_Hats"
+  },
+  {
+    "title": "Critical Role's 'The Dating Game' Panel \u2013 SDCC 2016",
+    "airdate": "2016-07-23 12:30 PDT",
+    "runtime": 3223,
+    "next_href": "/wiki/Critical_Role_Answers_Your_Questions_at_SDCC!",
+    "href": "/wiki/Critical_Role%27s_%27The_Dating_Game%27_Panel_%E2%80%93_SDCC_2016"
+  },
+  {
+    "title": "Critical Role Answers Your Questions at SDCC!",
+    "airdate": "2016-07-23 19:30 PDT",
+    "runtime": 2527,
+    "next_href": "/wiki/Denizens_of_the_Moonbrush",
+    "href": "/wiki/Critical_Role_Answers_Your_Questions_at_SDCC!"
+  },
+  {
+    "title": "Denizens of the Moonbrush",
+    "airdate": "2016-07-28 19:00 PDT",
+    "runtime": 14481,
+    "next_href": "/wiki/Uninviting_Waters",
+    "href": "/wiki/Denizens_of_the_Moonbrush"
+  },
+  {
+    "title": "Uninviting Waters",
+    "airdate": "2016-08-06 20:00 EDT",
+    "runtime": 10780,
+    "next_href": "/wiki/The_Echo_Tree",
+    "href": "/wiki/Uninviting_Waters"
+  },
+  {
+    "title": "The Echo Tree",
+    "airdate": "2016-08-11 19:00 PDT",
+    "runtime": 14395,
+    "next_href": "/wiki/The_Frigid_Doom",
+    "href": "/wiki/The_Echo_Tree"
+  },
+  {
+    "title": "The Frigid Doom",
+    "airdate": "2016-08-18 19:00 PDT",
+    "runtime": 14317,
+    "next_href": "/wiki/The_Streets_of_Ank%27Harel",
+    "href": "/wiki/The_Frigid_Doom"
+  },
+  {
+    "title": "The Streets of Ank'Harel",
+    "airdate": "2016-08-25 19:00 PDT",
+    "runtime": 15587,
+    "next_href": "/wiki/Critical_Role_Extra_%E2%80%93_The_Return_of_Liam!",
+    "href": "/wiki/The_Streets_of_Ank%27Harel"
+  },
+  {
+    "title": "Critical Role Extra \u2013 The Return of Liam!",
+    "airdate": "2016-09-01 19:00 PDT",
+    "runtime": 17747,
+    "next_href": "/wiki/A_Traveler%27s_Gamble",
+    "href": "/wiki/Critical_Role_Extra_%E2%80%93_The_Return_of_Liam!"
+  },
+  {
+    "title": "A Traveler's Gamble",
+    "airdate": "2016-09-08 19:00 PDT",
+    "runtime": 15448,
+    "next_href": "/wiki/The_Chase_to_Glintshore",
+    "href": "/wiki/A_Traveler%27s_Gamble"
+  },
+  {
+    "title": "The Chase to Glintshore",
+    "airdate": "2016-09-15 19:00 PDT",
+    "runtime": 13389,
+    "next_href": "/wiki/Cloak_and_Dagger",
+    "href": "/wiki/The_Chase_to_Glintshore"
+  },
+  {
+    "title": "Cloak and Dagger",
+    "airdate": "2016-09-22 19:00 PDT",
+    "runtime": 16462,
+    "next_href": "/wiki/Passed_Through_Fire",
+    "href": "/wiki/Cloak_and_Dagger"
+  },
+  {
+    "title": "Passed Through Fire",
+    "airdate": "2016-09-29 19:00 PDT",
+    "runtime": 10707,
+    "next_href": "/wiki/Trust",
+    "href": "/wiki/Passed_Through_Fire"
+  },
+  {
+    "title": "Trust",
+    "airdate": "2016-10-06 19:00 PDT",
+    "runtime": 14372,
+    "next_href": "/wiki/Vorugal_(episode)",
+    "href": "/wiki/Trust"
+  },
+  {
+    "title": "Vorugal (episode)",
+    "airdate": "2016-10-13 19:00 PDT",
+    "runtime": 17545,
+    "next_href": "/wiki/The_Elephant_in_the_Room",
+    "href": "/wiki/Vorugal_(episode)"
+  },
+  {
+    "title": "The Elephant in the Room",
+    "airdate": "2016-10-20 19:00 PDT",
+    "runtime": 11210,
+    "next_href": "/wiki/The_Coming_Storm",
+    "href": "/wiki/The_Elephant_in_the_Room"
+  },
+  {
+    "title": "The Coming Storm",
+    "airdate": "2016-10-27 19:00 PDT",
+    "runtime": 12278,
+    "next_href": "/wiki/Path_of_Brass",
+    "href": "/wiki/The_Coming_Storm"
+  },
+  {
+    "title": "Path of Brass",
+    "airdate": "2016-11-03 19:00 PDT",
+    "runtime": 14417,
+    "next_href": "/wiki/Where_the_Cards_Fall",
+    "href": "/wiki/Path_of_Brass"
+  },
+  {
+    "title": "Where the Cards Fall",
+    "airdate": "2016-11-10 19:00 PST",
+    "runtime": 14260,
+    "next_href": "/wiki/Talks_Machina_Episode_1",
+    "href": "/wiki/Where_the_Cards_Fall"
+  },
+  {
+    "title": "Talks Machina Episode 1",
+    "airdate": "2016-11-15 19:00 PST",
+    "runtime": 3257,
+    "next_href": "/wiki/Brawl_in_the_Arches",
+    "href": "/wiki/Talks_Machina_Episode_1"
+  },
+  {
+    "title": "Brawl in the Arches",
+    "airdate": "2016-11-17 19:00 PST",
+    "runtime": 13922,
+    "next_href": "/wiki/Talks_Machina_Episode_2",
+    "href": "/wiki/Brawl_in_the_Arches"
+  },
+  {
+    "title": "Talks Machina Episode 2",
+    "airdate": "2016-11-22 19:00 PST",
+    "runtime": 4294,
+    "next_href": "/wiki/Talks_Machina_Episode_3",
+    "href": "/wiki/Talks_Machina_Episode_2"
+  },
+  {
+    "title": "Talks Machina Episode 3",
+    "airdate": "2016-11-29 19:00 PST",
+    "runtime": 4420,
+    "next_href": "/wiki/Clash_at_Daxio",
+    "href": "/wiki/Talks_Machina_Episode_3"
+  },
+  {
+    "title": "Clash at Daxio",
+    "airdate": "2016-12-01 19:00 PST",
+    "runtime": 15915,
+    "next_href": "/wiki/Talks_Machina_Episode_4",
+    "href": "/wiki/Clash_at_Daxio"
+  },
+  {
+    "title": "Talks Machina Episode 4",
+    "airdate": "2016-12-06 19:00 PST",
+    "runtime": 4954,
+    "next_href": "/wiki/The_Siege_of_Emon",
+    "href": "/wiki/Talks_Machina_Episode_4"
+  },
+  {
+    "title": "The Siege of Emon",
+    "airdate": "2016-12-08 19:00 PST",
+    "runtime": 15386,
+    "next_href": "/wiki/Talks_Machina_Episode_5",
+    "href": "/wiki/The_Siege_of_Emon"
+  },
+  {
+    "title": "Talks Machina Episode 5",
+    "airdate": "2016-12-13 19:00 PST",
+    "runtime": 4534,
+    "next_href": "/wiki/Thordak_(episode)",
+    "href": "/wiki/Talks_Machina_Episode_5"
+  },
+  {
+    "title": "Thordak",
+    "airdate": "2016-12-15 19:00 PST",
+    "runtime": 15999,
+    "next_href": "/wiki/Talks_Machina_Episode_6",
+    "href": "/wiki/Thordak_(episode)"
+  },
+  {
+    "title": "Talks Machina Episode 6",
+    "airdate": "2016-12-20 19:00 PST",
+    "runtime": 5589,
+    "next_href": "/wiki/Talks_Machina_Episode_7",
+    "href": "/wiki/Talks_Machina_Episode_6"
+  },
+  {
+    "title": "Talks Machina Episode 7",
+    "airdate": "2017-01-03 19:00 PST",
+    "runtime": 5357,
+    "next_href": "/wiki/Raishan_(episode)",
+    "href": "/wiki/Talks_Machina_Episode_7"
+  },
+  {
+    "title": "Raishan",
+    "airdate": "2017-01-05 19:00 PST",
+    "runtime": 12210,
+    "next_href": "/wiki/Talks_Machina_Episode_8",
+    "href": "/wiki/Raishan_(episode)"
+  },
+  {
+    "title": "Talks Machina Episode 8",
+    "airdate": "2017-01-10 19:00 PST",
+    "runtime": 5200,
+    "next_href": "/wiki/What_Lies_Beneath_the_Surface",
+    "href": "/wiki/Talks_Machina_Episode_8"
+  },
+  {
+    "title": "What Lies Beneath the Surface",
+    "airdate": "2017-01-12 19:00 PST",
+    "runtime": 14450,
+    "next_href": "/wiki/Talks_Machina_Episode_9",
+    "href": "/wiki/What_Lies_Beneath_the_Surface"
+  },
+  {
+    "title": "Talks Machina Episode 9",
+    "airdate": "2017-01-17 19:00 PST",
+    "runtime": 4804,
+    "next_href": "/wiki/Deadly_Echoes",
+    "href": "/wiki/Talks_Machina_Episode_9"
+  },
+  {
+    "title": "Deadly Echoes",
+    "airdate": "2017-01-19 19:00 PST",
+    "runtime": 17313,
+    "next_href": "/wiki/Talks_Machina_Episode_10",
+    "href": "/wiki/Deadly_Echoes"
+  },
+  {
+    "title": "Talks Machina Episode 10",
+    "airdate": "2017-01-24 19:00 PST",
+    "runtime": 5469,
+    "next_href": "/wiki/The_Deceiver%27s_Stand",
+    "href": "/wiki/Talks_Machina_Episode_10"
+  },
+  {
+    "title": "The Deceiver's Stand",
+    "airdate": "2017-01-26 19:00 PST",
+    "runtime": 15493,
+    "next_href": "/wiki/Talks_Machina_Episode_11",
+    "href": "/wiki/The_Deceiver%27s_Stand"
+  },
+  {
+    "title": "Talks Machina Episode 11",
+    "airdate": "2017-01-31 19:00 PST",
+    "runtime": 5244,
+    "next_href": "/wiki/Loose_Ends",
+    "href": "/wiki/Talks_Machina_Episode_11"
+  },
+  {
+    "title": "Loose Ends",
+    "airdate": "2017-02-02 19:00 PST",
+    "runtime": 12833,
+    "next_href": "/wiki/Talks_Machina_Episode_12",
+    "href": "/wiki/Loose_Ends"
+  },
+  {
+    "title": "Talks Machina Episode 12",
+    "airdate": "2017-02-07 19:00 PST",
+    "runtime": 5263,
+    "next_href": "/wiki/A_Bard%27s_Lament",
+    "href": "/wiki/Talks_Machina_Episode_12"
+  },
+  {
+    "title": "A Bard's Lament",
+    "airdate": "2017-02-09 19:00 PST",
+    "runtime": 12437,
+    "next_href": "/wiki/Daring_Days",
+    "href": "/wiki/A_Bard%27s_Lament"
+  },
+  {
+    "title": "Daring Days",
+    "airdate": "2017-02-16 19:00 PST",
+    "runtime": 13888,
+    "next_href": "/wiki/Talks_Machina_Episode_13",
+    "href": "/wiki/Daring_Days"
+  },
+  {
+    "title": "Talks Machina Episode 13",
+    "airdate": "2017-02-21 19:00 PST",
+    "runtime": 5485,
+    "next_href": "/wiki/Onward_to_Vesrah",
+    "href": "/wiki/Talks_Machina_Episode_13"
+  },
+  {
+    "title": "Onward to Vesrah",
+    "airdate": "2017-02-23 19:00 PST",
+    "runtime": 12821,
+    "next_href": "/wiki/Talks_Machina_Episode_14",
+    "href": "/wiki/Onward_to_Vesrah"
+  },
+  {
+    "title": "Talks Machina Episode 14",
+    "airdate": "2017-02-28 19:00 PST",
+    "runtime": 5458,
+    "next_href": "/wiki/Tangled_Depths",
+    "href": "/wiki/Talks_Machina_Episode_14"
+  },
+  {
+    "title": "Tangled Depths",
+    "airdate": "2017-03-02 19:00 PST",
+    "runtime": 19829,
+    "next_href": "/wiki/Talks_Machina_Episode_15",
+    "href": "/wiki/Tangled_Depths"
+  },
+  {
+    "title": "Talks Machina Episode 15",
+    "airdate": "2017-03-07 19:00 PST",
+    "runtime": 5657,
+    "next_href": "/wiki/Curious_Tides",
+    "href": "/wiki/Talks_Machina_Episode_15"
+  },
+  {
+    "title": "Curious Tides",
+    "airdate": "2017-03-09 19:00 PST",
+    "runtime": 12950,
+    "next_href": "/wiki/Talks_Machina_Episode_16",
+    "href": "/wiki/Curious_Tides"
+  },
+  {
+    "title": "Talks Machina Episode 16",
+    "airdate": "2017-03-14 19:00 PDT",
+    "runtime": 4888,
+    "next_href": "/wiki/Voice_of_the_Tempest",
+    "href": "/wiki/Talks_Machina_Episode_16"
+  },
+  {
+    "title": "Voice of the Tempest",
+    "airdate": "2017-03-16 19:00 PDT",
+    "runtime": 14917,
+    "next_href": "/wiki/Talks_Machina_Episode_17",
+    "href": "/wiki/Voice_of_the_Tempest"
+  },
+  {
+    "title": "Talks Machina Episode 17",
+    "airdate": "2017-03-21 19:00 PDT",
+    "runtime": 4935,
+    "next_href": "/wiki/Vox_Machina_Go_to_Hell",
+    "href": "/wiki/Talks_Machina_Episode_17"
+  },
+  {
+    "title": "Vox Machina Go to Hell",
+    "airdate": "2017-03-23 19:00 PDT",
+    "runtime": 15147,
+    "next_href": "/wiki/Talks_Machina_Episode_18",
+    "href": "/wiki/Vox_Machina_Go_to_Hell"
+  },
+  {
+    "title": "Talks Machina Episode 18",
+    "airdate": "2017-03-28 19:00 PDT",
+    "runtime": 5888,
+    "next_href": "/wiki/Deals_in_the_Dark",
+    "href": "/wiki/Talks_Machina_Episode_18"
+  },
+  {
+    "title": "Deals in the Dark",
+    "airdate": "2017-03-30 19:00 PDT",
+    "runtime": 13149,
+    "next_href": "/wiki/Talks_Machina_Answers_Your_Questions_Live_at_WonderCon",
+    "href": "/wiki/Deals_in_the_Dark"
+  },
+  {
+    "title": "Talks Machina Answers Your Questions Live at WonderCon",
+    "airdate": "2017-04-01 14:00 PDT",
+    "runtime": 3389,
+    "next_href": "/wiki/Bats_out_of_Hell",
+    "href": "/wiki/Talks_Machina_Answers_Your_Questions_Live_at_WonderCon"
+  },
+  {
+    "title": "Bats out of Hell",
+    "airdate": "2017-04-06 19:00 PDT",
+    "runtime": 16166,
+    "next_href": "/wiki/Talks_Machina_Episode_20",
+    "href": "/wiki/Bats_out_of_Hell"
+  },
+  {
+    "title": "Talks Machina Episode 20",
+    "airdate": "2017-04-11 19:00 PDT",
+    "runtime": 5033,
+    "next_href": "/wiki/Jugs_and_Rods",
+    "href": "/wiki/Talks_Machina_Episode_20"
+  },
+  {
+    "title": "Jugs and Rods",
+    "airdate": "2017-04-13 19:00 PDT",
+    "runtime": 15812,
+    "next_href": "/wiki/Talks_Machina_Episode_21",
+    "href": "/wiki/Jugs_and_Rods"
+  },
+  {
+    "title": "Talks Machina Episode 21",
+    "airdate": "2017-04-18 19:00 PDT",
+    "runtime": 4458,
+    "next_href": "/wiki/Liam%27s_Quest:_Full_Circle",
+    "href": "/wiki/Talks_Machina_Episode_21"
+  },
+  {
+    "title": "Liam's Quest: Full Circle",
+    "airdate": "2017-04-20 19:00 PDT",
+    "runtime": 16947,
+    "next_href": "/wiki/Fireside_Q%26A_with_Matthew_Mercer",
+    "href": "/wiki/Liam%27s_Quest:_Full_Circle"
+  },
+  {
+    "title": "Fireside Q&A with Matthew Mercer",
+    "airdate": "2017-04-25 16:00 PDT",
+    "runtime": 7167,
+    "next_href": "/wiki/Talks_Machina_Episode_22",
+    "href": "/wiki/Fireside_Q%26A_with_Matthew_Mercer"
+  },
+  {
+    "title": "Talks Machina Episode 22",
+    "airdate": "2017-04-25 19:00 PDT",
+    "runtime": 4971,
+    "next_href": "/wiki/One_Year_Later...",
+    "href": "/wiki/Talks_Machina_Episode_22"
+  },
+  {
+    "title": "One Year Later...",
+    "airdate": "2017-04-27 19:00 PDT",
+    "runtime": 14735,
+    "next_href": "/wiki/Talks_Machina_%E2%80%93_Pants_Optional_Critmas",
+    "href": "/wiki/One_Year_Later..."
+  },
+  {
+    "title": "Talks Machina \u2013 Pants Optional Critmas",
+    "airdate": "2017-05-02 19:00 PDT",
+    "runtime": 5200,
+    "next_href": "/wiki/Family_Matters",
+    "href": "/wiki/Talks_Machina_%E2%80%93_Pants_Optional_Critmas"
+  },
+  {
+    "title": "Family Matters",
+    "airdate": "2017-05-04 19:00 PDT",
+    "runtime": 17328,
+    "next_href": "/wiki/Talks_Machina_Episode_23",
+    "href": "/wiki/Family_Matters"
+  },
+  {
+    "title": "Talks Machina Episode 23",
+    "airdate": "2017-05-09 19:00 PDT",
+    "runtime": 5092,
+    "next_href": "/wiki/Taryon,_My_Wayward_Son",
+    "href": "/wiki/Talks_Machina_Episode_23"
+  },
+  {
+    "title": "Taryon, My Wayward Son",
+    "airdate": "2017-05-11 19:00 PDT",
+    "runtime": 15202,
+    "next_href": "/wiki/Talks_Machina_Episode_24",
+    "href": "/wiki/Taryon,_My_Wayward_Son"
+  },
+  {
+    "title": "Talks Machina Episode 24",
+    "airdate": "2017-05-16 19:00 PDT",
+    "runtime": 5304,
+    "next_href": "/wiki/The_Mines_of_the_Many",
+    "href": "/wiki/Talks_Machina_Episode_24"
+  },
+  {
+    "title": "The Mines of the Many",
+    "airdate": "2017-05-18 19:00 PDT",
+    "runtime": 16237,
+    "next_href": "/wiki/Talks_Machina_Episode_25",
+    "href": "/wiki/The_Mines_of_the_Many"
+  },
+  {
+    "title": "Talks Machina Episode 25",
+    "airdate": "2017-05-23 19:00 PDT",
+    "runtime": 5121,
+    "next_href": "/wiki/Critical_Role_%E2%80%93_Level_17_Battle_Royale!",
+    "href": "/wiki/Talks_Machina_Episode_25"
+  },
+  {
+    "title": "Critical Role \u2013 Level 17 Battle Royale!",
+    "airdate": "2017-05-25 19:00 PDT",
+    "runtime": 14343,
+    "next_href": "/wiki/Talks_Machina_Episode_26",
+    "href": "/wiki/Critical_Role_%E2%80%93_Level_17_Battle_Royale!"
+  },
+  {
+    "title": "Talks Machina Episode 26",
+    "airdate": "2017-05-30 19:00 PDT",
+    "runtime": 5520,
+    "next_href": "/wiki/Masquerade",
+    "href": "/wiki/Talks_Machina_Episode_26"
+  },
+  {
+    "title": "Masquerade",
+    "airdate": "2017-06-01 19:00 PDT",
+    "runtime": 14488,
+    "next_href": "/wiki/Talks_Machina_Episode_27",
+    "href": "/wiki/Masquerade"
+  },
+  {
+    "title": "Talks Machina Episode 27",
+    "airdate": "2017-06-06 19:00 PDT",
+    "runtime": 5222,
+    "next_href": "/wiki/Unfinished_Business",
+    "href": "/wiki/Talks_Machina_Episode_27"
+  },
+  {
+    "title": "Unfinished Business",
+    "airdate": "2017-06-08 19:00 PDT",
+    "runtime": 20796,
+    "next_href": "/wiki/Talks_Machina_Episode_28",
+    "href": "/wiki/Unfinished_Business"
+  },
+  {
+    "title": "Talks Machina Episode 28",
+    "airdate": "2017-06-13 19:00 PDT",
+    "runtime": 5180,
+    "next_href": "/wiki/Thar_Amphala_(episode)",
+    "href": "/wiki/Talks_Machina_Episode_28"
+  },
+  {
+    "title": "Thar Amphala (episode)",
+    "airdate": "2017-06-15 19:00 PDT",
+    "runtime": 12685,
+    "next_href": "/wiki/Talks_Machina_Episode_29",
+    "href": "/wiki/Thar_Amphala_(episode)"
+  },
+  {
+    "title": "Talks Machina Episode 29",
+    "airdate": "2017-06-20 19:00 PDT",
+    "runtime": 5302,
+    "next_href": "/wiki/Race_to_the_Tower",
+    "href": "/wiki/Talks_Machina_Episode_29"
+  },
+  {
+    "title": "Race to the Tower",
+    "airdate": "2017-06-22 19:00 PDT",
+    "runtime": 16339,
+    "next_href": "/wiki/Talks_Machina_Episode_30",
+    "href": "/wiki/Race_to_the_Tower"
+  },
+  {
+    "title": "Talks Machina Episode 30",
+    "airdate": "2017-06-27 19:00 PDT",
+    "runtime": 4226,
+    "next_href": "/wiki/The_Fate-Touched",
+    "href": "/wiki/Talks_Machina_Episode_30"
+  },
+  {
+    "title": "The Fate-Touched",
+    "airdate": "2017-06-29 19:00 PDT",
+    "runtime": 12791,
+    "next_href": "/wiki/Elysium",
+    "href": "/wiki/The_Fate-Touched"
+  },
+  {
+    "title": "Elysium",
+    "airdate": "2017-07-06 19:00 PDT",
+    "runtime": 11276,
+    "next_href": "/wiki/Talks_Machina_Episode_31",
+    "href": "/wiki/Elysium"
+  },
+  {
+    "title": "Talks Machina Episode 31",
+    "airdate": "2017-07-11 19:00 PDT",
+    "runtime": 5082,
+    "next_href": "/wiki/The_Fear_of_Isolation",
+    "href": "/wiki/Talks_Machina_Episode_31"
+  },
+  {
+    "title": "The Fear of Isolation",
+    "airdate": "2017-07-13 19:00 PDT",
+    "runtime": 14899,
+    "next_href": "/wiki/Talks_Machina_Episode_32",
+    "href": "/wiki/The_Fear_of_Isolation"
+  },
+  {
+    "title": "Talks Machina Episode 32",
+    "airdate": "2017-07-18 19:00 PDT",
+    "runtime": 5027,
+    "next_href": "/wiki/Talks_Machina_Live_With_Brian_W._Foster_And_Critical_Role!_(SDCC_2017)",
+    "href": "/wiki/Talks_Machina_Episode_32"
+  },
+  {
+    "title": "Talks Machina Live With Brian W. Foster And Critical Role! (SDCC 2017)",
+    "airdate": "2017-07-22 10:30 PDT",
+    "runtime": 3541,
+    "next_href": "/wiki/The_Endless_Atheneeum",
+    "href": "/wiki/Talks_Machina_Live_With_Brian_W._Foster_And_Critical_Role!_(SDCC_2017)"
+  },
+  {
+    "title": "The Endless Atheneeum",
+    "airdate": "2017-07-27 19:00 PDT",
+    "runtime": 13803,
+    "next_href": "/wiki/Talks_Machina_Episode_33",
+    "href": "/wiki/The_Endless_Atheneeum"
+  },
+  {
+    "title": "Talks Machina Episode 33",
+    "airdate": "2017-08-01 19:00 PDT",
+    "runtime": 6135,
+    "next_href": "/wiki/Scaldseat",
+    "href": "/wiki/Talks_Machina_Episode_33"
+  },
+  {
+    "title": "Scaldseat",
+    "airdate": "2017-08-03 19:00 PDT",
+    "runtime": 14245,
+    "next_href": "/wiki/The_Core_Anvil",
+    "href": "/wiki/Scaldseat"
+  },
+  {
+    "title": "The Core Anvil",
+    "airdate": "2017-08-10 19:00 PDT",
+    "runtime": 16305,
+    "next_href": "/wiki/Talks_Machina_Episode_34",
+    "href": "/wiki/The_Core_Anvil"
+  },
+  {
+    "title": "Talks Machina Episode 34",
+    "airdate": "2017-08-15 19:00 PDT",
+    "runtime": 4712,
+    "next_href": "/wiki/The_Ominous_March",
+    "href": "/wiki/Talks_Machina_Episode_34"
+  },
+  {
+    "title": "The Ominous March",
+    "airdate": "2017-08-18 18:00 PDT",
+    "runtime": 13461,
+    "next_href": "/wiki/Talks_Machina_Episode_35",
+    "href": "/wiki/The_Ominous_March"
+  },
+  {
+    "title": "Talks Machina Episode 35",
+    "airdate": "2017-08-23 19:00 PDT",
+    "runtime": 5754,
+    "next_href": "/wiki/The_Climb_Within",
+    "href": "/wiki/Talks_Machina_Episode_35"
+  },
+  {
+    "title": "The Climb Within",
+    "airdate": "2017-08-24 19:00 PDT",
+    "runtime": 13525,
+    "next_href": "/wiki/Talks_Machina_Episode_36",
+    "href": "/wiki/The_Climb_Within"
+  },
+  {
+    "title": "Talks Machina Episode 36",
+    "airdate": "2017-08-29 19:00 PDT",
+    "runtime": 4864,
+    "next_href": "/wiki/Critical_Role:_Bar_Room_Blitz",
+    "href": "/wiki/Talks_Machina_Episode_36"
+  },
+  {
+    "title": "Critical Role: Bar Room Blitz",
+    "airdate": "2017-08-31 19:00 PDT",
+    "runtime": 14808,
+    "next_href": "/wiki/Talks_Machina_Episode_37",
+    "href": "/wiki/Critical_Role:_Bar_Room_Blitz"
+  },
+  {
+    "title": "Talks Machina Episode 37",
+    "airdate": "2017-09-05 19:00 PDT",
+    "runtime": 5018,
+    "next_href": "/wiki/Talks_Machina_Episode_38",
+    "href": "/wiki/Talks_Machina_Episode_37"
+  },
+  {
+    "title": "Talks Machina Episode 38",
+    "airdate": "2017-09-12 19:00 PDT",
+    "runtime": 4924,
+    "next_href": "/wiki/Shadows_of_Thomara",
+    "href": "/wiki/Talks_Machina_Episode_38"
+  },
+  {
+    "title": "Shadows of Thomara",
+    "airdate": "2017-09-14 19:00 PDT",
+    "runtime": 16251,
+    "next_href": "/wiki/Talks_Machina_Episode_39",
+    "href": "/wiki/Shadows_of_Thomara"
+  },
+  {
+    "title": "Talks Machina Episode 39",
+    "airdate": "2017-09-19 19:00 PDT",
+    "runtime": 4774,
+    "next_href": "/wiki/Dark_Dealings",
+    "href": "/wiki/Talks_Machina_Episode_39"
+  },
+  {
+    "title": "Dark Dealings",
+    "airdate": "2017-09-21 19:00 PDT",
+    "runtime": 15009,
+    "next_href": "/wiki/Talks_Machina_Episode_40",
+    "href": "/wiki/Dark_Dealings"
+  },
+  {
+    "title": "Talks Machina Episode 40",
+    "airdate": "2017-09-26 19:00 PDT",
+    "runtime": 3621,
+    "next_href": "/wiki/The_Final_Ascent",
+    "href": "/wiki/Talks_Machina_Episode_40"
+  },
+  {
+    "title": "The Final Ascent",
+    "airdate": "2017-09-28 19:00 PDT",
+    "runtime": 18141,
+    "next_href": "/wiki/Critical_Role_One-Shot:_Shadow_of_War_%E2%80%93_Part_1",
+    "href": "/wiki/The_Final_Ascent"
+  },
+  {
+    "title": "Critical Role One-Shot: Shadow of War \u2013 Part 1",
+    "airdate": "2017-10-03",
+    "runtime": 5906,
+    "next_href": "/wiki/Talks_Machina_Episode_41",
+    "href": "/wiki/Critical_Role_One-Shot:_Shadow_of_War_%E2%80%93_Part_1"
+  },
+  {
+    "title": "Talks Machina Episode 41",
+    "airdate": "2017-10-03 19:00 PDT",
+    "runtime": 5281,
+    "next_href": "/wiki/Vecna,_the_Ascended",
+    "href": "/wiki/Talks_Machina_Episode_41"
+  },
+  {
+    "title": "Vecna, the Ascended",
+    "airdate": "2017-10-05 19:00 PDT",
+    "runtime": 20686,
+    "next_href": "/wiki/Critical_Role_One-Shot:_Shadow_of_War_%E2%80%93_Part_2",
+    "href": "/wiki/Vecna,_the_Ascended"
+  },
+  {
+    "title": "Critical Role One-Shot: Shadow of War \u2013 Part 2",
+    "airdate": "2017-10-09",
+    "runtime": 6431,
+    "next_href": "/wiki/Talks_Machina_Episode_42",
+    "href": "/wiki/Critical_Role_One-Shot:_Shadow_of_War_%E2%80%93_Part_2"
+  },
+  {
+    "title": "Talks Machina Episode 42",
+    "airdate": "2017-10-10 19:00 PDT",
+    "runtime": 5264,
+    "next_href": "/wiki/The_Chapter_Closes",
+    "href": "/wiki/Talks_Machina_Episode_42"
+  },
+  {
+    "title": "The Chapter Closes",
+    "airdate": "2017-10-12 19:00 PDT",
+    "runtime": 16450,
+    "next_href": "/wiki/Talks_Machina_Episode_43",
+    "href": "/wiki/The_Chapter_Closes"
+  },
+  {
+    "title": "Talks Machina Episode 43",
+    "airdate": "2017-10-17 19:00 PDT",
+    "runtime": 4750,
+    "next_href": "/wiki/Critical_Role_One-Shot:_Thursday_by_Night",
+    "href": "/wiki/Talks_Machina_Episode_43"
+  },
+  {
+    "title": "Critical Role One-Shot: Thursday by Night",
+    "airdate": "2017-10-19 19:00 PDT",
+    "runtime": 13968,
+    "next_href": "/wiki/Talks_Machina_Episode_44",
+    "href": "/wiki/Critical_Role_One-Shot:_Thursday_by_Night"
+  },
+  {
+    "title": "Talks Machina Episode 44",
+    "airdate": "2017-10-24 19:00 PDT",
+    "runtime": 5529,
+    "next_href": "/wiki/Critical_Role_One-Shot:_Thursday_by_Night_%E2%80%93_Part_2",
+    "href": "/wiki/Talks_Machina_Episode_44"
+  },
+  {
+    "title": "Critical Role One-Shot: Thursday by Night \u2013 Part 2",
+    "airdate": "2017-10-26 19:00 PDT",
+    "runtime": 12289,
+    "next_href": "/wiki/Critical_Role:_Grog%27s_One-Shot",
+    "href": "/wiki/Critical_Role_One-Shot:_Thursday_by_Night_%E2%80%93_Part_2"
+  },
+  {
+    "title": "Critical Role: Grog's One-Shot",
+    "airdate": "2017-11-02 19:00 PDT",
+    "runtime": 14263,
+    "next_href": "/wiki/Talks_Machina_Episode_45",
+    "href": "/wiki/Critical_Role:_Grog%27s_One-Shot"
+  },
+  {
+    "title": "Talks Machina Episode 45",
+    "airdate": "2017-11-07 19:00 PST",
+    "runtime": 4398,
+    "next_href": "/wiki/Critical_Role_One-Shot:_Trinket%27s_Honey_Heist",
+    "href": "/wiki/Talks_Machina_Episode_45"
+  },
+  {
+    "title": "Critical Role One-Shot: Trinket's Honey Heist",
+    "airdate": "2017-11-09 19:00 PST",
+    "runtime": 13406,
+    "next_href": "/wiki/Talks_Machina_Episode_46",
+    "href": "/wiki/Critical_Role_One-Shot:_Trinket%27s_Honey_Heist"
+  },
+  {
+    "title": "Talks Machina Episode 46",
+    "airdate": "2017-11-14 19:00 PST",
+    "runtime": 5144,
+    "next_href": "/wiki/Critical_Role_One-Shot:_Once_Upon_a_Fairytale_Cruise",
+    "href": "/wiki/Talks_Machina_Episode_46"
+  },
+  {
+    "title": "Critical Role One-Shot: Once Upon a Fairytale Cruise",
+    "airdate": "2017-11-16 19:00 PST",
+    "runtime": 15157,
+    "next_href": "/wiki/Talks_Machina_Episode_47",
+    "href": "/wiki/Critical_Role_One-Shot:_Once_Upon_a_Fairytale_Cruise"
+  },
+  {
+    "title": "Talks Machina Episode 47",
+    "airdate": "2017-11-28 19:00 PST",
+    "runtime": 4905,
+    "next_href": "/wiki/Critical_Role_One-Shot:_Kobolds,_Catacombs_and_Dragons_(Oh_My!)",
+    "href": "/wiki/Talks_Machina_Episode_47"
+  },
+  {
+    "title": "Critical Role One-Shot: Kobolds, Catacombs and Dragons (Oh My!)",
+    "airdate": "2017-11-30 19:00 PST",
+    "runtime": 14926,
+    "next_href": "/wiki/Critical_Role_One-Shot:_Epic_Level_Battle_Royale",
+    "href": "/wiki/Critical_Role_One-Shot:_Kobolds,_Catacombs_and_Dragons_(Oh_My!)"
+  },
+  {
+    "title": "Critical Role One-Shot: Epic Level Battle Royale",
+    "airdate": "2017-12-07 19:00 PST",
+    "runtime": 17099,
+    "next_href": "/wiki/Talks_Machina_Episode_48",
+    "href": "/wiki/Critical_Role_One-Shot:_Epic_Level_Battle_Royale"
+  },
+  {
+    "title": "Talks Machina Episode 48",
+    "airdate": "2017-12-12 19:00 PST",
+    "runtime": 4304,
+    "next_href": "/wiki/Talks_Machina:_Campaign_Wrap-up",
+    "href": "/wiki/Talks_Machina_Episode_48"
+  },
+  {
+    "title": "Talks Machina: Campaign Wrap-up",
+    "airdate": "2017-12-14 19:00 PST",
+    "runtime": 13981,
+    "next_href": "/wiki/Critmas!",
+    "href": "/wiki/Talks_Machina:_Campaign_Wrap-up"
+  },
+  {
+    "title": "Critmas!",
+    "airdate": "2017-12-19 19:00 PST",
+    "runtime": 3040,
+    "next_href": "/wiki/Talks_Machina_Fireside_Special:_Q%26A_with_the_Critical_Role_Cast",
+    "href": "/wiki/Critmas!"
+  },
+  {
+    "title": "Talks Machina Fireside Special: Q&A with the Critical Role Cast",
+    "airdate": "2018-01-04 19:00 PST",
+    "runtime": 8561,
+    "next_href": "/wiki/Curious_Beginnings",
+    "href": "/wiki/Talks_Machina_Fireside_Special:_Q%26A_with_the_Critical_Role_Cast"
+  },
+  {
+    "title": "Curious Beginnings",
+    "airdate": "2018-01-11 19:00 PST",
+    "runtime": 12913,
+    "next_href": "/wiki/Talks_Machina_Episode_49",
+    "href": "/wiki/Curious_Beginnings"
+  },
+  {
+    "title": "Talks Machina Episode 49",
+    "airdate": "2018-01-16 19:00 PST",
+    "runtime": 4832,
+    "next_href": "/wiki/A_Show_of_Scrutiny",
+    "href": "/wiki/Talks_Machina_Episode_49"
+  },
+  {
+    "title": "A Show of Scrutiny",
+    "airdate": "2018-01-18 19:00 PST",
+    "runtime": 0,
+    "next_href": "/wiki/Talks_Machina_Episode_50",
+    "href": "/wiki/A_Show_of_Scrutiny"
+  },
+  {
+    "title": "Talks Machina Episode 50",
+    "airdate": "2018-01-23 19:00 PST",
+    "runtime": 5307,
+    "next_href": "/wiki/The_Midnight_Chase",
+    "href": "/wiki/Talks_Machina_Episode_50"
+  },
+  {
+    "title": "The Midnight Chase",
+    "airdate": "2018-01-25 19:00 PST",
+    "runtime": 14367,
+    "next_href": "/wiki/Talks_Machina_Episode_51",
+    "href": "/wiki/The_Midnight_Chase"
+  },
+  {
+    "title": "Talks Machina Episode 51",
+    "airdate": "2018-01-30 19:00 PST",
+    "runtime": 4909,
+    "next_href": "/wiki/Disparate_Pieces",
+    "href": "/wiki/Talks_Machina_Episode_51"
+  },
+  {
+    "title": "Disparate Pieces",
+    "airdate": "2018-02-01 19:00 PST",
+    "runtime": 14172,
+    "next_href": "/wiki/Talks_Machina_Episode_52",
+    "href": "/wiki/Disparate_Pieces"
+  },
+  {
+    "title": "Talks Machina Episode 52",
+    "airdate": "2018-02-06 19:00 PST",
+    "runtime": 4640,
+    "next_href": "/wiki/The_Open_Road",
+    "href": "/wiki/Talks_Machina_Episode_52"
+  },
+  {
+    "title": "The Open Road",
+    "airdate": "2018-02-08 19:00 PST",
+    "runtime": 13390,
+    "next_href": "/wiki/Talks_Machina_Episode_53",
+    "href": "/wiki/The_Open_Road"
+  },
+  {
+    "title": "Talks Machina Episode 53",
+    "airdate": "2018-02-13 19:00 PST",
+    "runtime": 5308,
+    "next_href": "/wiki/The_Howling_Mines",
+    "href": "/wiki/Talks_Machina_Episode_53"
+  },
+  {
+    "title": "The Howling Mines",
+    "airdate": "2018-02-15 19:00 PST",
+    "runtime": 14902,
+    "next_href": "/wiki/Talks_Machina_Episode_54",
+    "href": "/wiki/The_Howling_Mines"
+  },
+  {
+    "title": "Talks Machina Episode 54",
+    "airdate": "2018-02-20 19:00 PST",
+    "runtime": 4994,
+    "next_href": "/wiki/Hush",
+    "href": "/wiki/Talks_Machina_Episode_54"
+  },
+  {
+    "title": "Hush",
+    "airdate": "2018-02-22 19:00 PST",
+    "runtime": 16227,
+    "next_href": "/wiki/Talks_Machina_Episode_55",
+    "href": "/wiki/Hush"
+  },
+  {
+    "title": "Talks Machina Episode 55",
+    "airdate": "2018-02-27 19:00 PST",
+    "runtime": 4866,
+    "next_href": "/wiki/The_Gates_of_Zadash",
+    "href": "/wiki/Talks_Machina_Episode_55"
+  },
+  {
+    "title": "The Gates of Zadash",
+    "airdate": "2018-03-01 19:00 PST",
+    "runtime": 13629,
+    "next_href": "/wiki/Talks_Machina_Episode_56",
+    "href": "/wiki/The_Gates_of_Zadash"
+  },
+  {
+    "title": "Talks Machina Episode 56",
+    "airdate": "2018-03-06 19:00 PST",
+    "runtime": 4885,
+    "next_href": "/wiki/Steam_and_Conversation",
+    "href": "/wiki/Talks_Machina_Episode_56"
+  },
+  {
+    "title": "Steam and Conversation",
+    "airdate": "2018-03-08 19:00 PST",
+    "runtime": 13425,
+    "next_href": "/wiki/Talks_Machina_Episode_57",
+    "href": "/wiki/Steam_and_Conversation"
+  },
+  {
+    "title": "Talks Machina Episode 57",
+    "airdate": "2018-03-13 19:00 PDT",
+    "runtime": 4962,
+    "next_href": "/wiki/Waste_and_Webs",
+    "href": "/wiki/Talks_Machina_Episode_57"
+  },
+  {
+    "title": "Waste and Webs",
+    "airdate": "2018-03-15 19:00 PDT",
+    "runtime": 15205,
+    "next_href": "/wiki/Talks_Machina_Episode_58",
+    "href": "/wiki/Waste_and_Webs"
+  },
+  {
+    "title": "Talks Machina Episode 58",
+    "airdate": "2018-03-20 19:00 PDT",
+    "runtime": 4816,
+    "next_href": "/wiki/Zemnian_Nights",
+    "href": "/wiki/Talks_Machina_Episode_58"
+  },
+  {
+    "title": "Zemnian Nights",
+    "airdate": "2018-03-22 19:00 PDT",
+    "runtime": 15409,
+    "next_href": "/wiki/Talks_Machina:_Live_from_WonderCon_2018",
+    "href": "/wiki/Zemnian_Nights"
+  },
+  {
+    "title": "Talks Machina: Live from WonderCon 2018",
+    "airdate": "2018-03-27 19:00 PDT",
+    "runtime": 3597,
+    "next_href": "/wiki/Midnight_Espionage",
+    "href": "/wiki/Talks_Machina:_Live_from_WonderCon_2018"
+  },
+  {
+    "title": "Midnight Espionage",
+    "airdate": "2018-03-29 19:00 PDT",
+    "runtime": 15390,
+    "next_href": "/wiki/Talks_Machina_Episode_60",
+    "href": "/wiki/Midnight_Espionage"
+  },
+  {
+    "title": "Talks Machina Episode 60",
+    "airdate": "2018-04-03 19:00 PDT",
+    "runtime": 4923,
+    "next_href": "/wiki/Lost_%26_Found",
+    "href": "/wiki/Talks_Machina_Episode_60"
+  },
+  {
+    "title": "Lost & Found",
+    "airdate": "2018-04-05 19:00 PDT",
+    "runtime": 15832,
+    "next_href": "/wiki/Talks_Machina_Episode_61",
+    "href": "/wiki/Lost_%26_Found"
+  },
+  {
+    "title": "Talks Machina Episode 61",
+    "airdate": "2018-04-10 19:00 PDT",
+    "runtime": 4985,
+    "next_href": "/wiki/Fleeting_Memories",
+    "href": "/wiki/Talks_Machina_Episode_61"
+  },
+  {
+    "title": "Fleeting Memories",
+    "airdate": "2018-04-12 19:00 PDT",
+    "runtime": 11815,
+    "next_href": "/wiki/Talks_Machina_Episode_62",
+    "href": "/wiki/Fleeting_Memories"
+  },
+  {
+    "title": "Talks Machina Episode 62",
+    "airdate": "2018-04-17 19:00 PDT",
+    "runtime": 4587,
+    "next_href": "/wiki/Where_The_River_Goes",
+    "href": "/wiki/Talks_Machina_Episode_62"
+  },
+  {
+    "title": "Where The River Goes",
+    "airdate": "2018-04-19 19:00 PDT",
+    "runtime": 13918,
+    "next_href": "/wiki/Talks_Machina_Episode_63",
+    "href": "/wiki/Where_The_River_Goes"
+  },
+  {
+    "title": "Talks Machina Episode 63",
+    "airdate": "2018-04-24 19:00 PDT",
+    "runtime": 4748,
+    "next_href": "/wiki/A_Favor_in_Kind",
+    "href": "/wiki/Talks_Machina_Episode_63"
+  },
+  {
+    "title": "A Favor in Kind",
+    "airdate": "2018-04-26 19:00 PDT",
+    "runtime": 15182,
+    "next_href": "/wiki/Talks_Machina_Episode_64",
+    "href": "/wiki/A_Favor_in_Kind"
+  },
+  {
+    "title": "Talks Machina Episode 64",
+    "airdate": "2018-05-01 19:00 PDT",
+    "runtime": 4933,
+    "next_href": "/wiki/Harvest_Close",
+    "href": "/wiki/Talks_Machina_Episode_64"
+  },
+  {
+    "title": "Harvest Close",
+    "airdate": "2018-05-03 19:00 PDT",
+    "runtime": 15480,
+    "next_href": "/wiki/Talks_Machina_Episode_65",
+    "href": "/wiki/Harvest_Close"
+  },
+  {
+    "title": "Talks Machina Episode 65",
+    "airdate": "2018-05-08 19:00 PDT",
+    "runtime": 4849,
+    "next_href": "/wiki/Whispers_of_War",
+    "href": "/wiki/Talks_Machina_Episode_65"
+  },
+  {
+    "title": "Whispers of War",
+    "airdate": "2018-05-10 19:00 PDT",
+    "runtime": 16039,
+    "next_href": "/wiki/Talks_Machina_Episode_66",
+    "href": "/wiki/Whispers_of_War"
+  },
+  {
+    "title": "Talks Machina Episode 66",
+    "airdate": "2018-05-15 19:00 PDT",
+    "runtime": 4903,
+    "next_href": "/wiki/The_Gentleman%27s_Path",
+    "href": "/wiki/Talks_Machina_Episode_66"
+  },
+  {
+    "title": "The Gentleman's Path",
+    "airdate": "2018-05-17 19:00 PDT",
+    "runtime": 14082,
+    "next_href": "/wiki/Talks_Machina_Episode_67",
+    "href": "/wiki/The_Gentleman%27s_Path"
+  },
+  {
+    "title": "Talks Machina Episode 67",
+    "airdate": "2018-05-22 19:00 PDT",
+    "runtime": 4880,
+    "next_href": "/wiki/Labenda_Awaits",
+    "href": "/wiki/Talks_Machina_Episode_67"
+  },
+  {
+    "title": "Labenda Awaits",
+    "airdate": "2018-05-23 19:00 PDT",
+    "runtime": 13421,
+    "next_href": "/wiki/Talks_Machina_Episode_68",
+    "href": "/wiki/Labenda_Awaits"
+  },
+  {
+    "title": "Talks Machina Episode 68",
+    "airdate": "2018-05-29 19:00 PDT",
+    "runtime": 4740,
+    "next_href": "/wiki/Stalker_in_the_Swamp",
+    "href": "/wiki/Talks_Machina_Episode_68"
+  },
+  {
+    "title": "Stalker in the Swamp",
+    "airdate": "2018-05-31 19:00 PDT",
+    "runtime": 16454,
+    "next_href": "/wiki/Talks_Machina_Episode_69",
+    "href": "/wiki/Stalker_in_the_Swamp"
+  },
+  {
+    "title": "Talks Machina Episode 69",
+    "airdate": "2018-06-05 19:00 PDT",
+    "runtime": 4912,
+    "next_href": "/wiki/Lost_Treasures",
+    "href": "/wiki/Talks_Machina_Episode_69"
+  },
+  {
+    "title": "Lost Treasures",
+    "airdate": "2018-06-07 19:00 PDT",
+    "runtime": 13025,
+    "next_href": "/wiki/Talks_Machina_Episode_70",
+    "href": "/wiki/Lost_Treasures"
+  },
+  {
+    "title": "Talks Machina Episode 70",
+    "airdate": "2018-06-12 19:00 PDT",
+    "runtime": 4806,
+    "next_href": "/wiki/Have_Bird,_Will_Travel",
+    "href": "/wiki/Talks_Machina_Episode_70"
+  },
+  {
+    "title": "Have Bird, Will Travel",
+    "airdate": "2018-06-14 19:00 PDT",
+    "runtime": 14254,
+    "next_href": "/wiki/Talks_Machina_Episode_71",
+    "href": "/wiki/Have_Bird,_Will_Travel"
+  },
+  {
+    "title": "Talks Machina Episode 71",
+    "airdate": "2018-06-19 19:00 PDT",
+    "runtime": 4861,
+    "next_href": "/wiki/The_Hour_of_Honor",
+    "href": "/wiki/Talks_Machina_Episode_71"
+  },
+  {
+    "title": "The Hour of Honor",
+    "airdate": "2018-06-21 19:00 PDT",
+    "runtime": 13568,
+    "next_href": "/wiki/Talks_Machina_Episode_72",
+    "href": "/wiki/The_Hour_of_Honor"
+  },
+  {
+    "title": "Talks Machina Episode 72",
+    "airdate": "2018-06-26 19:00 PDT",
+    "runtime": 4550,
+    "next_href": "/wiki/Divergent_Paths",
+    "href": "/wiki/Talks_Machina_Episode_72"
+  },
+  {
+    "title": "Divergent Paths",
+    "airdate": "2018-06-28 19:00 PDT",
+    "runtime": 14425,
+    "next_href": "/wiki/Talks_Machina_Episode_73",
+    "href": "/wiki/Divergent_Paths"
+  },
+  {
+    "title": "Talks Machina Episode 73",
+    "airdate": "2018-07-10 19:00 PDT",
+    "runtime": 4725,
+    "next_href": "/wiki/Found_%26_Lost",
+    "href": "/wiki/Talks_Machina_Episode_73"
+  },
+  {
+    "title": "Found & Lost",
+    "airdate": "2018-07-12 19:00 PDT",
+    "runtime": 17608,
+    "next_href": "/wiki/Talks_Machina_Episode_74",
+    "href": "/wiki/Found_%26_Lost"
+  },
+  {
+    "title": "Talks Machina Episode 74",
+    "airdate": "2018-07-17 19:00 PDT",
+    "runtime": 5012,
+    "next_href": "/wiki/Converging_Fury",
+    "href": "/wiki/Talks_Machina_Episode_74"
+  },
+  {
+    "title": "Converging Fury",
+    "airdate": "2018-07-19 19:00 PDT",
+    "runtime": 14597,
+    "next_href": "/wiki/Talks_Machina_Live_from_San_Diego_Comic-Con_2018!",
+    "href": "/wiki/Converging_Fury"
+  },
+  {
+    "title": "Talks Machina Live from San Diego Comic-Con 2018!",
+    "airdate": "2018-07-24 19:00 PDT",
+    "runtime": 3763,
+    "next_href": "/wiki/Within_the_Nest",
+    "href": "/wiki/Talks_Machina_Live_from_San_Diego_Comic-Con_2018!"
+  },
+  {
+    "title": "Within the Nest",
+    "airdate": "2018-07-26 19:00 PDT",
+    "runtime": 15137,
+    "next_href": "/wiki/Talks_Machina_Episode_76",
+    "href": "/wiki/Within_the_Nest"
+  },
+  {
+    "title": "Talks Machina Episode 76",
+    "airdate": "2018-07-31 19:00 PDT",
+    "runtime": 4758,
+    "next_href": "/wiki/The_Stalking_Nightmare",
+    "href": "/wiki/Talks_Machina_Episode_76"
+  },
+  {
+    "title": "The Stalking Nightmare",
+    "airdate": "2018-08-03 18:00 PDT",
+    "runtime": 15057,
+    "next_href": "/wiki/Fireside_Chat_%26_NPC_Build_with_Matthew_Mercer",
+    "href": "/wiki/The_Stalking_Nightmare"
+  },
+  {
+    "title": "Fireside Chat & NPC Build with Matthew Mercer",
+    "airdate": "2018-08-07 17:00 PDT",
+    "runtime": 4059,
+    "next_href": "/wiki/Talks_Machina_Episode_77",
+    "href": "/wiki/Fireside_Chat_%26_NPC_Build_with_Matthew_Mercer"
+  },
+  {
+    "title": "Talks Machina Episode 77",
+    "airdate": "2018-08-07 19:00 PDT",
+    "runtime": 4617,
+    "next_href": "/wiki/The_Journey_Home",
+    "href": "/wiki/Talks_Machina_Episode_77"
+  },
+  {
+    "title": "The Journey Home",
+    "airdate": "2018-08-09 19:00 PDT",
+    "runtime": 12846,
+    "next_href": "/wiki/Honey_Heist_2:_Electric_Beargaloo",
+    "href": "/wiki/The_Journey_Home"
+  },
+  {
+    "title": "Honey Heist 2: Electric Beargaloo",
+    "airdate": "2018-08-10 19:00 PDT",
+    "runtime": 9973,
+    "next_href": "/wiki/Talks_Machina_Episode_78",
+    "href": "/wiki/Honey_Heist_2:_Electric_Beargaloo"
+  },
+  {
+    "title": "Talks Machina Episode 78",
+    "airdate": "2018-08-14 19:00 PDT",
+    "runtime": 4547,
+    "next_href": "/wiki/Commerce_%26_Chaos",
+    "href": "/wiki/Talks_Machina_Episode_78"
+  },
+  {
+    "title": "Commerce & Chaos",
+    "airdate": "2018-08-16 19:00 PDT",
+    "runtime": 12394,
+    "next_href": "/wiki/Talks_Machina_Episode_79",
+    "href": "/wiki/Commerce_%26_Chaos"
+  },
+  {
+    "title": "Talks Machina Episode 79",
+    "airdate": "2018-08-21 19:00 PDT",
+    "runtime": 5105,
+    "next_href": "/wiki/Beyond_the_Boundaries",
+    "href": "/wiki/Talks_Machina_Episode_79"
+  },
+  {
+    "title": "Beyond the Boundaries",
+    "airdate": "2018-08-23 19:00 PDT",
+    "runtime": 13521,
+    "next_href": "/wiki/Talks_Machina_Episode_80",
+    "href": "/wiki/Beyond_the_Boundaries"
+  },
+  {
+    "title": "Talks Machina Episode 80",
+    "airdate": "2018-08-28 19:00 PDT",
+    "runtime": 4703,
+    "next_href": "/wiki/Liam%27s_One_Shot:_The_Song_of_the_Lorelei",
+    "href": "/wiki/Talks_Machina_Episode_80"
+  },
+  {
+    "title": "Liam's One Shot: The Song of the Lorelei",
+    "airdate": "2018-08-31 19:00 PDT",
+    "runtime": 16642,
+    "next_href": "/wiki/The_Ruby_and_the_Sapphire",
+    "href": "/wiki/Liam%27s_One_Shot:_The_Song_of_the_Lorelei"
+  },
+  {
+    "title": "The Ruby and the Sapphire",
+    "airdate": "2018-09-06 19:00 PDT",
+    "runtime": 14049,
+    "next_href": "/wiki/Talks_Machina_Episode_81",
+    "href": "/wiki/The_Ruby_and_the_Sapphire"
+  },
+  {
+    "title": "Talks Machina Episode 81",
+    "airdate": "2018-09-11 19:00 PDT",
+    "runtime": 4627,
+    "next_href": "/wiki/Encroaching_Waters",
+    "href": "/wiki/Talks_Machina_Episode_81"
+  },
+  {
+    "title": "Encroaching Waters",
+    "airdate": "2018-09-13 19:00 PDT",
+    "runtime": 15772,
+    "next_href": "/wiki/Talks_Machina_Episode_82",
+    "href": "/wiki/Encroaching_Waters"
+  },
+  {
+    "title": "Talks Machina Episode 82",
+    "airdate": "2018-09-18 19:00 PDT",
+    "runtime": 4689,
+    "next_href": "/wiki/Dockside_Diplomacy",
+    "href": "/wiki/Talks_Machina_Episode_82"
+  },
+  {
+    "title": "Dockside Diplomacy",
+    "airdate": "2018-09-20 19:00 PDT",
+    "runtime": 13885,
+    "next_href": "/wiki/Crash_Pandas:_Too_Trashed,_Too_Curious",
+    "href": "/wiki/Dockside_Diplomacy"
+  },
+  {
+    "title": "Crash Pandas: Too Trashed, Too Curious",
+    "airdate": "2018-09-21 19:00 PDT",
+    "runtime": 10395,
+    "next_href": "/wiki/Talks_Machina_Episode_83",
+    "href": "/wiki/Crash_Pandas:_Too_Trashed,_Too_Curious"
+  },
+  {
+    "title": "Talks Machina Episode 83",
+    "airdate": "2018-09-25 19:00 PDT",
+    "runtime": 4901,
+    "next_href": "/wiki/O_Captain,_Who%27s_Captain%3F",
+    "href": "/wiki/Talks_Machina_Episode_83"
+  },
+  {
+    "title": "O Captain, Who's Captain?",
+    "airdate": "2018-09-27 19:00 PDT",
+    "runtime": 14693,
+    "next_href": "/wiki/Talks_Machina_Episode_84",
+    "href": "/wiki/O_Captain,_Who%27s_Captain%3F"
+  },
+  {
+    "title": "Talks Machina Episode 84",
+    "airdate": "2018-10-02 19:00 PDT",
+    "runtime": 4618,
+    "next_href": "/wiki/Dangerous_Liaisons",
+    "href": "/wiki/Talks_Machina_Episode_84"
+  },
+  {
+    "title": "Dangerous Liaisons",
+    "airdate": "2018-10-04 22:00 EDT",
+    "runtime": 11909,
+    "next_href": "/wiki/Talks_Machina_Episode_85",
+    "href": "/wiki/Dangerous_Liaisons"
+  },
+  {
+    "title": "Talks Machina Episode 85",
+    "airdate": "2018-10-09 19:00 PDT",
+    "runtime": 4959,
+    "next_href": "/wiki/Welcome_to_the_Jungle",
+    "href": "/wiki/Talks_Machina_Episode_85"
+  },
+  {
+    "title": "Welcome to the Jungle",
+    "airdate": "2018-10-11 22:00 EDT",
+    "runtime": 12349,
+    "next_href": "/wiki/Talks_Machina_Episode_86",
+    "href": "/wiki/Welcome_to_the_Jungle"
+  },
+  {
+    "title": "Talks Machina Episode 86",
+    "airdate": "2018-10-16 19:00 PDT",
+    "runtime": 4499,
+    "next_href": "/wiki/Temple_of_the_False_Serpent",
+    "href": "/wiki/Talks_Machina_Episode_86"
+  },
+  {
+    "title": "Temple of the False Serpent",
+    "airdate": "2018-10-18 22:00 EDT",
+    "runtime": 15711,
+    "next_href": "/wiki/Talks_Machina_Episode_87",
+    "href": "/wiki/Temple_of_the_False_Serpent"
+  },
+  {
+    "title": "Talks Machina Episode 87",
+    "airdate": "2018-10-23 19:00 PDT",
+    "runtime": 4603,
+    "next_href": "/wiki/Critical_Role_and_the_Club_of_Misfits",
+    "href": "/wiki/Talks_Machina_Episode_87"
+  },
+  {
+    "title": "Critical Role and the Club of Misfits",
+    "airdate": "2018-10-25 19:00 PDT",
+    "runtime": 10068,
+    "next_href": "/wiki/Talks_Machina_Episode_88",
+    "href": "/wiki/Critical_Role_and_the_Club_of_Misfits"
+  },
+  {
+    "title": "Talks Machina Episode 88",
+    "airdate": "2018-10-30 19:00 PDT",
+    "runtime": 4658,
+    "next_href": "/wiki/Dubious_Pursuits",
+    "href": "/wiki/Talks_Machina_Episode_88"
+  },
+  {
+    "title": "Dubious Pursuits",
+    "airdate": "2018-11-01 19:00 PDT",
+    "runtime": 11440,
+    "next_href": "/wiki/Talks_Machina_Episode_89",
+    "href": "/wiki/Dubious_Pursuits"
+  },
+  {
+    "title": "Talks Machina Episode 89",
+    "airdate": "2018-11-06 19:00 PST",
+    "runtime": 4610,
+    "next_href": "/wiki/A_Pirate%27s_Life_for_Me",
+    "href": "/wiki/Talks_Machina_Episode_89"
+  },
+  {
+    "title": "A Pirate's Life for Me",
+    "airdate": "2018-11-08 19:00 PST",
+    "runtime": 13243,
+    "next_href": "/wiki/Talks_Machina_Episode_90",
+    "href": "/wiki/A_Pirate%27s_Life_for_Me"
+  },
+  {
+    "title": "Talks Machina Episode 90",
+    "airdate": "2018-11-13 19:00 PST",
+    "runtime": 4577,
+    "next_href": "/wiki/A_Hole_In_the_Plan",
+    "href": "/wiki/Talks_Machina_Episode_90"
+  },
+  {
+    "title": "A Hole In the Plan",
+    "airdate": "2018-11-15 19:00 PST",
+    "runtime": 14073,
+    "next_href": "/wiki/Talks_Machina_Episode_91",
+    "href": "/wiki/A_Hole_In_the_Plan"
+  },
+  {
+    "title": "Talks Machina Episode 91",
+    "airdate": "2018-11-20 19:00 PST",
+    "runtime": 4541,
+    "next_href": "/wiki/Honey_Heist_3:_Tova%E2%80%99s_Honeys",
+    "href": "/wiki/Talks_Machina_Episode_91"
+  },
+  {
+    "title": "Honey Heist 3: Tova\u2019s Honeys",
+    "airdate": "2018-11-23 19:00 PST",
+    "runtime": 11400,
+    "next_href": "/wiki/Fireside_Chat_with_Sam_Riegel",
+    "href": "/wiki/Honey_Heist_3:_Tova%E2%80%99s_Honeys"
+  },
+  {
+    "title": "Fireside Chat with Sam Riegel",
+    "airdate": "2018-11-27 19:00 PST",
+    "runtime": 4502,
+    "next_href": "/wiki/In_Hot_Water",
+    "href": "/wiki/Fireside_Chat_with_Sam_Riegel"
+  },
+  {
+    "title": "In Hot Water",
+    "airdate": "2018-11-29 19:00 PST",
+    "runtime": 13213,
+    "next_href": "/wiki/Talks_Machina_Episode_92",
+    "href": "/wiki/In_Hot_Water"
+  },
+  {
+    "title": "Talks Machina Episode 92",
+    "airdate": "2018-12-04 19:00 PST",
+    "runtime": 4672,
+    "next_href": "/wiki/The_Diver%27s_Grave",
+    "href": "/wiki/Talks_Machina_Episode_92"
+  },
+  {
+    "title": "The Diver's Grave",
+    "airdate": "2018-12-06 19:00 PST",
+    "runtime": 15140,
+    "next_href": "/wiki/Talks_Machina_Episode_93",
+    "href": "/wiki/The_Diver%27s_Grave"
+  },
+  {
+    "title": "Talks Machina Episode 93",
+    "airdate": "2018-12-11 19:00 PST",
+    "runtime": 4675,
+    "next_href": "/wiki/The_Stowaway",
+    "href": "/wiki/Talks_Machina_Episode_93"
+  },
+  {
+    "title": "The Stowaway",
+    "airdate": "2018-12-13 19:00 PST",
+    "runtime": 17935,
+    "next_href": "/wiki/Talks_Machina_Episode_94",
+    "href": "/wiki/The_Stowaway"
+  },
+  {
+    "title": "Talks Machina Episode 94",
+    "airdate": "2018-12-18 19:00 PST",
+    "runtime": 4600,
+    "next_href": "/wiki/A_Storm_of_Memories",
+    "href": "/wiki/Talks_Machina_Episode_94"
+  },
+  {
+    "title": "A Storm of Memories",
+    "airdate": "2018-12-20 19:00 PST",
+    "runtime": 14332,
+    "next_href": "/wiki/The_Night_Before_Critmas",
+    "href": "/wiki/A_Storm_of_Memories"
+  },
+  {
+    "title": "The Night Before Critmas",
+    "airdate": "2018-12-21 19:00 PST",
+    "runtime": 16714,
+    "next_href": "/wiki/Talks_Machina_Episode_95",
+    "href": "/wiki/The_Night_Before_Critmas"
+  },
+  {
+    "title": "Talks Machina Episode 95",
+    "airdate": "2019-01-08 19:00 PST",
+    "runtime": 5189,
+    "next_href": "/wiki/The_Second_Seal",
+    "href": "/wiki/Talks_Machina_Episode_95"
+  },
+  {
+    "title": "The Second Seal",
+    "airdate": "2019-01-10 19:00 PST",
+    "runtime": 13762,
+    "next_href": "/wiki/Talks_Machina_Episode_96",
+    "href": "/wiki/The_Second_Seal"
+  },
+  {
+    "title": "Talks Machina Episode 96",
+    "airdate": "2019-01-15 19:00 PST",
+    "runtime": 4611,
+    "next_href": "/wiki/Homeward_Bound",
+    "href": "/wiki/Talks_Machina_Episode_96"
+  },
+  {
+    "title": "Homeward Bound",
+    "airdate": "2019-01-17 19:00 PST",
+    "runtime": 14942,
+    "next_href": "/wiki/Talks_Machina_Episode_97",
+    "href": "/wiki/Homeward_Bound"
+  },
+  {
+    "title": "Talks Machina Episode 97",
+    "airdate": "2019-01-22 19:00 PST",
+    "runtime": 4376,
+    "next_href": "/wiki/A_Game_of_Names",
+    "href": "/wiki/Talks_Machina_Episode_97"
+  },
+  {
+    "title": "A Game of Names",
+    "airdate": "2019-01-24 19:00 PST",
+    "runtime": 13466,
+    "next_href": "/wiki/Talks_Machina_Episode_98",
+    "href": "/wiki/A_Game_of_Names"
+  },
+  {
+    "title": "Talks Machina Episode 98",
+    "airdate": "2019-01-29 19:00 PST",
+    "runtime": 4744,
+    "next_href": "/wiki/The_Endless_Burrows",
+    "href": "/wiki/Talks_Machina_Episode_98"
+  },
+  {
+    "title": "The Endless Burrows",
+    "airdate": "2019-01-31 19:00 PST",
+    "runtime": 14948,
+    "next_href": "/wiki/Talks_Machina_Episode_99",
+    "href": "/wiki/The_Endless_Burrows"
+  },
+  {
+    "title": "Talks Machina Episode 99",
+    "airdate": "2019-02-05 19:00 PST",
+    "runtime": 4759,
+    "next_href": "/wiki/Xhorhas_(episode)",
+    "href": "/wiki/Talks_Machina_Episode_99"
+  },
+  {
+    "title": "Xhorhas",
+    "airdate": "2019-02-14 19:00 PST",
+    "runtime": 14609,
+    "next_href": "/wiki/Talks_Machina_Episode_100",
+    "href": "/wiki/Xhorhas_(episode)"
+  },
+  {
+    "title": "Talks Machina Episode 100",
+    "airdate": "2019-02-19 19:00 PST",
+    "runtime": 5019,
+    "next_href": "/wiki/Feral_Business",
+    "href": "/wiki/Talks_Machina_Episode_100"
+  },
+  {
+    "title": "Feral Business",
+    "airdate": "2019-02-21 19:00 PST",
+    "runtime": 14929,
+    "next_href": "/wiki/The_Search_for_Grog",
+    "href": "/wiki/Feral_Business"
+  },
+  {
+    "title": "The Search for Grog",
+    "airdate": "2019-02-22 19:00 PST",
+    "runtime": 16869,
+    "next_href": "/wiki/Talks_Machina_Episode_101",
+    "href": "/wiki/The_Search_for_Grog"
+  },
+  {
+    "title": "Talks Machina Episode 101",
+    "airdate": "2019-02-25 19:00 PST",
+    "runtime": 4341,
+    "next_href": "/wiki/Cornered",
+    "href": "/wiki/Talks_Machina_Episode_101"
+  },
+  {
+    "title": "Cornered",
+    "airdate": "2019-02-28 19:00 PST",
+    "runtime": 12905,
+    "next_href": "/wiki/Talks_Machina_Episode_102",
+    "href": "/wiki/Cornered"
+  },
+  {
+    "title": "Talks Machina Episode 102",
+    "airdate": "2019-03-05 19:00 PST",
+    "runtime": 3835,
+    "next_href": "/wiki/Well_Beneath",
+    "href": "/wiki/Talks_Machina_Episode_102"
+  },
+  {
+    "title": "Well Beneath",
+    "airdate": "2019-03-07 19:00 PST",
+    "runtime": 12877,
+    "next_href": "/wiki/Talks_Machina_Episode_103",
+    "href": "/wiki/Well_Beneath"
+  },
+  {
+    "title": "Talks Machina Episode 103",
+    "airdate": "2019-03-12 19:00 PDT",
+    "runtime": 4223,
+    "next_href": "/wiki/Duplicity",
+    "href": "/wiki/Talks_Machina_Episode_103"
+  },
+  {
+    "title": "Duplicity",
+    "airdate": "2019-03-14 19:00 PDT",
+    "runtime": 15928,
+    "next_href": "/wiki/Talks_Machina_Episode_104",
+    "href": "/wiki/Duplicity"
+  },
+  {
+    "title": "Talks Machina Episode 104",
+    "airdate": "2019-03-19 19:00 PDT",
+    "runtime": 3780,
+    "next_href": "/wiki/The_Favor",
+    "href": "/wiki/Talks_Machina_Episode_104"
+  },
+  {
+    "title": "The Favor",
+    "airdate": "2019-03-21 19:00 PDT",
+    "runtime": 10876,
+    "next_href": "/wiki/Talks_Machina_Episode_105",
+    "href": "/wiki/The_Favor"
+  },
+  {
+    "title": "Talks Machina Episode 105",
+    "airdate": "2019-03-26 19:00 PDT",
+    "runtime": 3601,
+    "next_href": "/wiki/In_Love_and_War",
+    "href": "/wiki/Talks_Machina_Episode_105"
+  },
+  {
+    "title": "In Love and War",
+    "airdate": "2019-04-04 19:00 PDT",
+    "runtime": 13514,
+    "next_href": "/wiki/Talks_Machina_Episode_106",
+    "href": "/wiki/In_Love_and_War"
+  },
+  {
+    "title": "Talks Machina Episode 106",
+    "airdate": "2019-04-09 19:00 PDT",
+    "runtime": 3650,
+    "next_href": "/wiki/Wood_and_Steel",
+    "href": "/wiki/Talks_Machina_Episode_106"
+  },
+  {
+    "title": "Wood and Steel",
+    "airdate": "2019-04-11 19:00 PDT",
+    "runtime": 13699,
+    "next_href": "/wiki/Talks_Machina_Episode_107",
+    "href": "/wiki/Wood_and_Steel"
+  },
+  {
+    "title": "Talks Machina Episode 107",
+    "airdate": "2019-04-16 19:00 PDT",
+    "runtime": 3394,
+    "next_href": "/wiki/Perspective",
+    "href": "/wiki/Talks_Machina_Episode_107"
+  },
+  {
+    "title": "Perspective",
+    "airdate": "2019-04-18 19:00 PDT",
+    "runtime": 14165,
+    "next_href": "/wiki/Talks_Machina_Episode_108",
+    "href": "/wiki/Perspective"
+  },
+  {
+    "title": "Talks Machina Episode 108",
+    "airdate": "2019-04-23 19:00 PDT",
+    "runtime": 3737,
+    "next_href": "/wiki/A_Turtle_By_Any_Other_Name",
+    "href": "/wiki/Talks_Machina_Episode_108"
+  },
+  {
+    "title": "A Turtle By Any Other Name",
+    "airdate": "2019-04-25 19:00 PDT",
+    "runtime": 14161,
+    "next_href": "/wiki/Talks_Machina_Episode_109",
+    "href": "/wiki/A_Turtle_By_Any_Other_Name"
+  },
+  {
+    "title": "Talks Machina Episode 109",
+    "airdate": "2019-04-30 19:00 PDT",
+    "runtime": 3598,
+    "next_href": "/wiki/Agreements",
+    "href": "/wiki/Talks_Machina_Episode_109"
+  },
+  {
+    "title": "Agreements",
+    "airdate": "2019-05-02 19:00 PDT",
+    "runtime": 12398,
+    "next_href": "/wiki/Talks_Machina_Episode_110",
+    "href": "/wiki/Agreements"
+  },
+  {
+    "title": "Talks Machina Episode 110",
+    "airdate": "2019-05-07 19:00 PDT",
+    "runtime": 3572,
+    "next_href": "/wiki/Domestic_Respite",
+    "href": "/wiki/Talks_Machina_Episode_110"
+  },
+  {
+    "title": "Domestic Respite",
+    "airdate": "2019-05-09 19:00 PDT",
+    "runtime": 14337,
+    "next_href": "/wiki/Talks_Machina_Episode_111",
+    "href": "/wiki/Domestic_Respite"
+  },
+  {
+    "title": "Talks Machina Episode 111",
+    "airdate": "2019-05-14 19:00 PDT",
+    "runtime": 3305,
+    "next_href": "/wiki/Intervention",
+    "href": "/wiki/Talks_Machina_Episode_111"
+  },
+  {
+    "title": "Intervention",
+    "airdate": "2019-05-16 19:00 PDT",
+    "runtime": 13997,
+    "next_href": "/wiki/Talks_Machina_Episode_112",
+    "href": "/wiki/Intervention"
+  },
+  {
+    "title": "Talks Machina Episode 112",
+    "airdate": "2019-05-21 19:00 PDT",
+    "runtime": 4277,
+    "next_href": "/wiki/Stephen_Colbert%27s_D%26D_Adventure_with_Matthew_Mercer",
+    "href": "/wiki/Talks_Machina_Episode_112"
+  },
+  {
+    "title": "Stephen Colbert's D&D Adventure with Matthew Mercer",
+    "airdate": "2019-05-23 10:00 PST",
+    "runtime": 3151,
+    "next_href": "/wiki/A_Dangerous_Chase",
+    "href": "/wiki/Stephen_Colbert%27s_D%26D_Adventure_with_Matthew_Mercer"
+  },
+  {
+    "title": "A Dangerous Chase",
+    "airdate": "2019-05-23 19:00 PDT",
+    "runtime": 12537,
+    "next_href": "/wiki/Talks_Machina_Episode_113",
+    "href": "/wiki/A_Dangerous_Chase"
+  },
+  {
+    "title": "Talks Machina Episode 113",
+    "airdate": "2019-05-28 19:00 PDT",
+    "runtime": 3604,
+    "next_href": "/wiki/Chases_and_Trees",
+    "href": "/wiki/Talks_Machina_Episode_113"
+  },
+  {
+    "title": "Chases and Trees",
+    "airdate": "2019-05-30 19:00 PDT",
+    "runtime": 14187,
+    "next_href": "/wiki/Tails_of_Equestria_One-Shot",
+    "href": "/wiki/Chases_and_Trees"
+  },
+  {
+    "title": "Tails of Equestria One-Shot",
+    "airdate": "2019-05-31 19:00 PDT",
+    "runtime": 13159,
+    "next_href": "/wiki/Talks_Machina_Episode_114",
+    "href": "/wiki/Tails_of_Equestria_One-Shot"
+  },
+  {
+    "title": "Talks Machina Episode 114",
+    "airdate": "2019-05-28 19:00 PDT",
+    "runtime": 3909,
+    "next_href": "/wiki/Beneath_Bazzoxan",
+    "href": "/wiki/Talks_Machina_Episode_114"
+  },
+  {
+    "title": "Beneath Bazzoxan",
+    "airdate": "2019-06-06 19:00 PDT",
+    "runtime": 15904,
+    "next_href": "/wiki/Talks_Machina_Episode_115",
+    "href": "/wiki/Beneath_Bazzoxan"
+  },
+  {
+    "title": "Talks Machina Episode 115",
+    "airdate": "2019-06-11 19:00 PDT",
+    "runtime": 3600,
+    "next_href": "/wiki/Beyond_the_Eyes_of_Angels",
+    "href": "/wiki/Talks_Machina_Episode_115"
+  },
+  {
+    "title": "Beyond the Eyes of Angels",
+    "airdate": "2019-06-13 19:00 PDT",
+    "runtime": 15865,
+    "next_href": "/wiki/Talks_Machina_Episode_116",
+    "href": "/wiki/Beyond_the_Eyes_of_Angels"
+  },
+  {
+    "title": "Talks Machina Episode 116",
+    "airdate": "2019-06-18 19:00 PDT",
+    "runtime": 3569,
+    "next_href": "/wiki/Reflections",
+    "href": "/wiki/Talks_Machina_Episode_116"
+  },
+  {
+    "title": "Reflections",
+    "airdate": "2019-06-20 19:00 PDT",
+    "runtime": 13732,
+    "next_href": "/wiki/The_Search_For_Bob",
+    "href": "/wiki/Reflections"
+  },
+  {
+    "title": "The Search For Bob",
+    "airdate": "2019-06-23 19:00 PDT",
+    "runtime": 14295,
+    "next_href": "/wiki/Talks_Machina_Episode_117",
+    "href": "/wiki/The_Search_For_Bob"
+  },
+  {
+    "title": "Talks Machina Episode 117",
+    "airdate": "2019-06-25 19:00 PDT",
+    "runtime": 4129,
+    "next_href": "/wiki/The_King%27s_Cage",
+    "href": "/wiki/Talks_Machina_Episode_117"
+  },
+  {
+    "title": "The King's Cage",
+    "airdate": "2019-06-27 19:00 PDT",
+    "runtime": 15511,
+    "next_href": "/wiki/Talks_Machina_Episode_118",
+    "href": "/wiki/The_King%27s_Cage"
+  },
+  {
+    "title": "Talks Machina Episode 118",
+    "airdate": "2019-07-09 19:00 PDT",
+    "runtime": 3739,
+    "next_href": "/wiki/Causatum",
+    "href": "/wiki/Talks_Machina_Episode_118"
+  },
+  {
+    "title": "Causatum",
+    "airdate": "2019-07-11 19:00 PDT",
+    "runtime": 13992,
+    "next_href": "/wiki/Talks_Machina_Episode_119",
+    "href": "/wiki/Causatum"
+  },
+  {
+    "title": "Talks Machina Episode 119",
+    "airdate": "2019-07-16 19:00 PDT",
+    "runtime": 3672,
+    "next_href": "/wiki/Family_Gathering",
+    "href": "/wiki/Talks_Machina_Episode_119"
+  },
+  {
+    "title": "Family Gathering",
+    "airdate": "2019-07-18 19:00 PDT",
+    "runtime": 12258,
+    "next_href": "/wiki/Talks_Machina_Episode_120",
+    "href": "/wiki/Family_Gathering"
+  },
+  {
+    "title": "Talks Machina Episode 120",
+    "airdate": "2019-07-24 19:00 PDT",
+    "runtime": 3554,
+    "next_href": "/wiki/Clay_and_Dust",
+    "href": "/wiki/Talks_Machina_Episode_120"
+  },
+  {
+    "title": "Clay and Dust",
+    "airdate": "2019-07-25 19:00 PDT",
+    "runtime": 13087,
+    "next_href": "/wiki/Call_of_Cthulhu:_Shadow_of_the_Crystal_Palace",
+    "href": "/wiki/Clay_and_Dust"
+  },
+  {
+    "title": "Call of Cthulhu: Shadow of the Crystal Palace",
+    "airdate": "29-07-2019",
+    "runtime": 14692,
+    "next_href": "/wiki/Talks_Machina_Episode_121",
+    "href": "/wiki/Call_of_Cthulhu:_Shadow_of_the_Crystal_Palace"
+  },
+  {
+    "title": "Talks Machina Episode 121",
+    "airdate": "2019-07-30 19:00 PDT",
+    "runtime": 3553,
+    "next_href": "/wiki/Uthodurn_(episode)",
+    "href": "/wiki/Talks_Machina_Episode_121"
+  },
+  {
+    "title": "Uthodurn (episode)",
+    "airdate": "2019-08-02 17:00 PDT",
+    "runtime": 15010,
+    "next_href": "/wiki/Talks_Machina_Episode_122",
+    "href": "/wiki/Uthodurn_(episode)"
+  },
+  {
+    "title": "Talks Machina Episode 122",
+    "airdate": "2019-08-06 19:00 PDT",
+    "runtime": 3838,
+    "next_href": "/wiki/Manifold_Morals",
+    "href": "/wiki/Talks_Machina_Episode_122"
+  },
+  {
+    "title": "Manifold Morals",
+    "airdate": "2019-08-08 19:00 PDT",
+    "runtime": 14963,
+    "next_href": "/wiki/Talks_Machina_Episode_123",
+    "href": "/wiki/Manifold_Morals"
+  },
+  {
+    "title": "Talks Machina Episode 123",
+    "airdate": "2019-08-13 19:00 PDT",
+    "runtime": 3838,
+    "next_href": "/wiki/Rime_and_Reason",
+    "href": "/wiki/Talks_Machina_Episode_123"
+  },
+  {
+    "title": "Rime and Reason",
+    "airdate": "2019-08-15 19:00 PDT",
+    "runtime": 15457,
+    "next_href": "/wiki/Talks_Machina_Episode_124",
+    "href": "/wiki/Rime_and_Reason"
+  },
+  {
+    "title": "Talks Machina Episode 124",
+    "airdate": "2019-08-20 19:00 PDT",
+    "runtime": 3742,
+    "next_href": "/wiki/Refjorged",
+    "href": "/wiki/Talks_Machina_Episode_124"
+  },
+  {
+    "title": "Refjorged",
+    "airdate": "2019-08-22 19:00 PDT",
+    "runtime": 18031,
+    "next_href": "/wiki/Dalen%27s_Closet",
+    "href": "/wiki/Refjorged"
+  },
+  {
+    "title": "Dalen's Closet",
+    "airdate": "08-29-2019 19:00 PDT",
+    "runtime": 14984,
+    "next_href": "/wiki/A_Tangled_Web",
+    "href": "/wiki/Dalen%27s_Closet"
+  },
+  {
+    "title": "A Tangled Web",
+    "airdate": "2019-09-05 19:00 PDT",
+    "runtime": 14066,
+    "next_href": "/wiki/Talks_Machina_Episode_125",
+    "href": "/wiki/A_Tangled_Web"
+  },
+  {
+    "title": "Talks Machina Episode 125",
+    "airdate": "2019-09-10 19:00 PST",
+    "runtime": 4566,
+    "next_href": "/wiki/Between_the_Lines",
+    "href": "/wiki/Talks_Machina_Episode_125"
+  },
+  {
+    "title": "Between the Lines",
+    "airdate": "2019-09-19 19:00 PDT",
+    "runtime": 14875,
+    "next_href": "/wiki/Talks_Machina_Episode_126",
+    "href": "/wiki/Between_the_Lines"
+  },
+  {
+    "title": "Talks Machina Episode 126",
+    "airdate": "2019-09-24 19:00 PST",
+    "runtime": 3498,
+    "next_href": "/wiki/Through_the_Trees",
+    "href": "/wiki/Talks_Machina_Episode_126"
+  },
+  {
+    "title": "Through the Trees",
+    "airdate": "2019-09-26 19:00 PDT",
+    "runtime": 15578,
+    "next_href": "/wiki/Talks_Machina_Episode_127",
+    "href": "/wiki/Through_the_Trees"
+  },
+  {
+    "title": "Talks Machina Episode 127",
+    "airdate": "2019-10-01 19:00 PST",
+    "runtime": 3919,
+    "next_href": "/wiki/Special_48",
+    "href": "/wiki/Talks_Machina_Episode_127"
+  },
+  {
+    "title": "Special 48",
+    "airdate": "2019-10-03 19:00 PDT",
+    "runtime": 9527,
+    "next_href": "/wiki/The_Folding_Halls",
+    "href": "/wiki/Special_48"
+  },
+  {
+    "title": "The Folding Halls",
+    "airdate": "2019-10-10 19:00 PDT",
+    "runtime": 13272,
+    "next_href": "/wiki/Talks_Machina_Episode_128",
+    "href": "/wiki/The_Folding_Halls"
+  },
+  {
+    "title": "Talks Machina Episode 128",
+    "airdate": "2019-10-15 19:00 PST",
+    "runtime": 3928,
+    "next_href": "/wiki/From_Door_to_Door",
+    "href": "/wiki/Talks_Machina_Episode_128"
+  },
+  {
+    "title": "From Door to Door",
+    "airdate": "2019-10-17 19:00 PDT",
+    "runtime": 15401,
+    "next_href": "/wiki/Talks_Machina_Episode_129",
+    "href": "/wiki/From_Door_to_Door"
+  },
+  {
+    "title": "Talks Machina Episode 129",
+    "airdate": "2019-10-22 19:00 PST",
+    "runtime": 3518,
+    "next_href": "/wiki/The_Beat_of_the_Permaheart",
+    "href": "/wiki/Talks_Machina_Episode_129"
+  },
+  {
+    "title": "The Beat of the Permaheart",
+    "airdate": "2019-10-24 19:00 PDT",
+    "runtime": 16028,
+    "next_href": "/wiki/Talks_Machina_Episode_130",
+    "href": "/wiki/The_Beat_of_the_Permaheart"
+  },
+  {
+    "title": "Talks Machina Episode 130",
+    "airdate": "2019-10-29 19:00 PST",
+    "runtime": 3829,
+    "next_href": "/wiki/Dark_Bargains",
+    "href": "/wiki/Talks_Machina_Episode_130"
+  },
+  {
+    "title": "Dark Bargains",
+    "airdate": "2019-10-31 19:00 PDT",
+    "runtime": 15065,
+    "next_href": "/wiki/Talks_Machina_Episode_131",
+    "href": "/wiki/Dark_Bargains"
+  },
+  {
+    "title": "Talks Machina Episode 131",
+    "airdate": "2019-11-05 19:00 PST",
+    "runtime": 4650,
+    "next_href": "/wiki/Titles_and_Tattoos",
+    "href": "/wiki/Talks_Machina_Episode_131"
+  },
+  {
+    "title": "Titles and Tattoos",
+    "airdate": "2019-11-07 19:00 PST",
+    "runtime": 14500,
+    "next_href": "/wiki/Talks_Machina_Episode_132",
+    "href": "/wiki/Titles_and_Tattoos"
+  },
+  {
+    "title": "Talks Machina Episode 132",
+    "airdate": "2019-11-12 19:00 PST",
+    "runtime": 3492,
+    "next_href": "/wiki/The_Threads_Converge",
+    "href": "/wiki/Talks_Machina_Episode_132"
+  },
+  {
+    "title": "The Threads Converge",
+    "airdate": "2019-11-14 19:00 PST",
+    "runtime": 16193,
+    "next_href": "/wiki/Talks_Machina_Episode_133",
+    "href": "/wiki/The_Threads_Converge"
+  },
+  {
+    "title": "Talks Machina Episode 133",
+    "airdate": "2019-11-19 19:00 PST",
+    "runtime": 3686,
+    "next_href": "/wiki/The_Cathedral",
+    "href": "/wiki/Talks_Machina_Episode_133"
+  },
+  {
+    "title": "The Cathedral",
+    "airdate": "2019-11-21 19:00 PST",
+    "runtime": 18204,
+    "next_href": "/wiki/Talks_Machina_Episode_134",
+    "href": "/wiki/The_Cathedral"
+  },
+  {
+    "title": "Talks Machina Episode 134",
+    "airdate": "2019-11-26 19:00 PST",
+    "runtime": 3736,
+    "next_href": "/wiki/The_Adventures_of_the_Darrington_Brigade",
+    "href": "/wiki/Talks_Machina_Episode_134"
+  },
+  {
+    "title": "The Adventures of the Darrington Brigade",
+    "airdate": "11-29-2019 19:00 PST",
+    "runtime": 16571,
+    "next_href": "/wiki/Punishment_and_Politics",
+    "href": "/wiki/The_Adventures_of_the_Darrington_Brigade"
+  },
+  {
+    "title": "Punishment and Politics",
+    "airdate": "2019-12-05 19:00 PST",
+    "runtime": 12072,
+    "next_href": "/wiki/Talks_Machina_Episode_135",
+    "href": "/wiki/Punishment_and_Politics"
+  },
+  {
+    "title": "Talks Machina Episode 135",
+    "airdate": "2019-12-10 19:00 PST",
+    "runtime": 3737,
+    "next_href": "/wiki/Unwanted_Reunions",
+    "href": "/wiki/Talks_Machina_Episode_135"
+  },
+  {
+    "title": "Unwanted Reunions",
+    "airdate": "2019-12-12 19:00 PST",
+    "runtime": 15094,
+    "next_href": "/wiki/Talks_Machina_Episode_136",
+    "href": "/wiki/Unwanted_Reunions"
+  },
+  {
+    "title": "Talks Machina Episode 136",
+    "airdate": "2019-12-17 19:00 PST",
+    "runtime": 3854,
+    "next_href": "/wiki/End_of_2019_Fireside_Chat",
+    "href": "/wiki/Talks_Machina_Episode_136"
+  },
+  {
+    "title": "End of 2019 Fireside Chat",
+    "airdate": "2019-12-18 17:15 PST",
+    "runtime": 6232,
+    "next_href": "/wiki/Lingering_Wounds",
+    "href": "/wiki/End_of_2019_Fireside_Chat"
+  },
+  {
+    "title": "Lingering Wounds",
+    "airdate": "2019-12-19 19:00 PST",
+    "runtime": 15923,
+    "next_href": "/wiki/Bathhouses_and_Bastions",
+    "href": "/wiki/Lingering_Wounds"
+  },
+  {
+    "title": "Bathhouses and Bastions",
+    "airdate": "2020-01-09 19:00 PST",
+    "runtime": 13950,
+    "next_href": "/wiki/Talks_Machina_Episode_137",
+    "href": "/wiki/Bathhouses_and_Bastions"
+  },
+  {
+    "title": "Talks Machina Episode 137",
+    "airdate": "2020-01-14 19:00 PST",
+    "runtime": 4389,
+    "next_href": "/wiki/Stone_to_Clay",
+    "href": "/wiki/Talks_Machina_Episode_137"
+  },
+  {
+    "title": "Stone to Clay",
+    "airdate": "2020-01-16 19:00 PST",
+    "runtime": 14164,
+    "next_href": "/wiki/Talks_Machina_Episode_138",
+    "href": "/wiki/Stone_to_Clay"
+  },
+  {
+    "title": "Talks Machina Episode 138",
+    "airdate": "2020-01-21 19:00 PST",
+    "runtime": 3804,
+    "next_href": "/wiki/Home_is_Where_the_Heart_Is",
+    "href": "/wiki/Talks_Machina_Episode_138"
+  },
+  {
+    "title": "Home is Where the Heart Is",
+    "airdate": "2020-01-23 19:00 PST",
+    "runtime": 15204,
+    "next_href": "/wiki/Talks_Machina_Episode_139",
+    "href": "/wiki/Home_is_Where_the_Heart_Is"
+  },
+  {
+    "title": "Talks Machina Episode 139",
+    "airdate": "2020-01-28 19:00 PST",
+    "runtime": 4120,
+    "next_href": "/wiki/Misery_Loves_Company",
+    "href": "/wiki/Talks_Machina_Episode_139"
+  },
+  {
+    "title": "Misery Loves Company",
+    "airdate": "2020-01-30 19:00 PST",
+    "runtime": 14010,
+    "next_href": "/wiki/Talks_Machina_Episode_140",
+    "href": "/wiki/Misery_Loves_Company"
+  },
+  {
+    "title": "Talks Machina Episode 140",
+    "airdate": "2020-02-04 19:00 PST",
+    "runtime": 3829,
+    "next_href": "/wiki/With_Great_Power...",
+    "href": "/wiki/Talks_Machina_Episode_140"
+  },
+  {
+    "title": "With Great Power...",
+    "airdate": "2020-02-06 19:00 PST",
+    "runtime": 14560,
+    "next_href": "/wiki/Talks_Machina_Episode_141",
+    "href": "/wiki/With_Great_Power..."
+  },
+  {
+    "title": "Talks Machina Episode 141",
+    "airdate": "2020-02-11 19:00 PST",
+    "runtime": 3908,
+    "next_href": "/wiki/Blessing_in_Disguise",
+    "href": "/wiki/Talks_Machina_Episode_141"
+  },
+  {
+    "title": "Blessing in Disguise",
+    "airdate": "2020-02-13 19:00 PST",
+    "runtime": 13405,
+    "next_href": "/wiki/Cinderbrush:_A_Monsterhearts_Story",
+    "href": "/wiki/Blessing_in_Disguise"
+  },
+  {
+    "title": "Cinderbrush: A Monsterhearts Story",
+    "airdate": "2020-02-14 19:00 PST",
+    "runtime": 16556,
+    "next_href": "/wiki/Talks_Machina_Episode_142",
+    "href": "/wiki/Cinderbrush:_A_Monsterhearts_Story"
+  },
+  {
+    "title": "Talks Machina Episode 142",
+    "airdate": "2020-02-18 19:00 PST",
+    "runtime": 4059,
+    "next_href": "/wiki/Family_Shatters",
+    "href": "/wiki/Talks_Machina_Episode_142"
+  },
+  {
+    "title": "Family Shatters",
+    "airdate": "2020-02-20 19:00 PST",
+    "runtime": 16527,
+    "next_href": "/wiki/Talks_Machina_Episode_143",
+    "href": "/wiki/Family_Shatters"
+  },
+  {
+    "title": "Talks Machina Episode 143",
+    "airdate": "2020-02-25 19:00 PST",
+    "runtime": 3896,
+    "next_href": "/wiki/The_Fancy_and_the_Fooled",
+    "href": "/wiki/Talks_Machina_Episode_143"
+  },
+  {
+    "title": "The Fancy and the Fooled",
+    "airdate": "2020-02-27 18:00 PST",
+    "runtime": 15306,
+    "next_href": "/wiki/Talks_Machina_Episode_144",
+    "href": "/wiki/The_Fancy_and_the_Fooled"
+  },
+  {
+    "title": "Talks Machina Episode 144",
+    "airdate": "2020-03-03 19:00 PST",
+    "runtime": 3972,
+    "next_href": "/wiki/Dark_Waters",
+    "href": "/wiki/Talks_Machina_Episode_144"
+  },
+  {
+    "title": "Dark Waters",
+    "airdate": "2020-03-05 19:00 PST",
+    "runtime": 18504,
+    "next_href": "/wiki/Talks_Machina_Episode_145",
+    "href": "/wiki/Dark_Waters"
+  },
+  {
+    "title": "Talks Machina Episode 145",
+    "airdate": "2020-03-10 19:00 PDT",
+    "runtime": 4053,
+    "next_href": "/wiki/High_Seas,_High_Stakes",
+    "href": "/wiki/Talks_Machina_Episode_145"
+  },
+  {
+    "title": "High Seas, High Stakes",
+    "airdate": "2020-03-12 19:00 PDT",
+    "runtime": 13693,
+    "next_href": "/wiki/Doom_Eternal_One-Shot",
+    "href": "/wiki/High_Seas,_High_Stakes"
+  },
+  {
+    "title": "Doom Eternal One-Shot",
+    "airdate": "2020-03-16 19:00 PDT",
+    "runtime": 13331,
+    "next_href": "/wiki/Explorer%27s_Guide_to_Wildemount_Q%26A_and_Fireside_Chat_with_Matthew_Mercer",
+    "href": "/wiki/Doom_Eternal_One-Shot"
+  },
+  {
+    "title": "Explorer's Guide to Wildemount Q&A and Fireside Chat with Matthew Mercer",
+    "airdate": "2020-03-25 19:00 PDT",
+    "runtime": 6232,
+    "next_href": "/wiki/Hunted_at_Sea",
+    "href": "/wiki/Explorer%27s_Guide_to_Wildemount_Q%26A_and_Fireside_Chat_with_Matthew_Mercer"
+  },
+  {
+    "title": "Hunted at Sea",
+    "airdate": "2020-07-02 19:00 PDT",
+    "runtime": 13085,
+    "next_href": "/wiki/Mysteries,_Memories,_and_Music",
+    "href": "/wiki/Hunted_at_Sea"
+  },
+  {
+    "title": "Mysteries, Memories, and Music",
+    "airdate": "2020-07-09 19:00 PDT",
+    "runtime": 13133,
+    "next_href": "/wiki/Ghosts,_Dinosaurs,_and_Stuff",
+    "href": "/wiki/Mysteries,_Memories,_and_Music"
+  },
+  {
+    "title": "Ghosts, Dinosaurs, and Stuff",
+    "airdate": "2020-07-16 19:00 PDT",
+    "runtime": 12423,
+    "next_href": "/wiki/Maritime_Mysteries",
+    "href": "/wiki/Ghosts,_Dinosaurs,_and_Stuff"
+  },
+  {
+    "title": "Maritime Mysteries",
+    "airdate": "2020-07-23 19:00 PDT",
+    "runtime": 12693,
+    "next_href": "/wiki/Campaign_2_Episode_104",
+    "href": "/wiki/Maritime_Mysteries"
+  },
+  {
+    "title": "Campaign 2 Episode 104",
+    "airdate": "2020-07-30 19:00 PDT",
+    "runtime": 0,
+    "href": "/wiki/Campaign_2_Episode_104"
+  }
+]
