@@ -6,10 +6,16 @@ A silly little Python program to analyze the runtime of Critical Role.
 
 ### Totals
 
-Grand total: 49 days, 20 hours, 57 minutes, and 43 seconds
+|                    |             |
+|--------------------|-------------|
+| Runtime            | 49:20:57:43 |
+| Runtime (no Talks) | 41:21:22:07 |
 
 ### Averages
 
-Per week: 4 hours, 15 minutes, and 35 seconds
-
-Per week since "Talks Machina": 6 hours, 11 minutes, and 34 seconds
+|                              |         |
+|------------------------------|---------|
+| Main episode length          | 3:45:05 |
+| Runtime / week               | 4:15:35 |
+| Runtime / week (no Talks)    | 3:18:17 |
+| Runtime / week (since Talks) | 6:11:34 |
