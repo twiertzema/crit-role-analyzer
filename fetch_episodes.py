@@ -28,6 +28,7 @@ def gen_episodes(from_episode=FIRST_EP):
         episode = {
             "title": soup.select(".pi-title")[0].text,
             "airdate": soup.select("[data-source='Airdate'] > .pi-data-value")[0].text,
+            "href": episode_path,
         }
 
         try:
