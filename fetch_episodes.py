@@ -5,6 +5,16 @@ import requests
 from constants import BASE_URL, FIRST_EP
 
 
+def update_episodes(episodes, new_ep):
+    for i, ep in enumerate(episodes):
+        if ep["href"] == new_ep["href"]:
+            episodes[i] = new_ep
+            return episodes
+
+    episodes.append(new_ep)
+    return episodes
+
+
 def parse_time(time_str):
     time_parts = [int(x) for x in time_str.split(":")]
 
@@ -56,10 +66,10 @@ def fetch_episodes():
     with open("db\\episodes.json", mode="r") as f:
         episodes += json.loads(f.read())
 
-    starting_episode = episodes[-1]["next_href"]
+    starting_episode = episodes[-2]["next_href"]
 
     for episode in gen_episodes(starting_episode):
-        episodes.append(episode)
+        episodes = update_episodes(episodes, episode)
 
         with open("db\\episodes.json", mode="w") as f:
             f.write(json.dumps(episodes, indent=2))
