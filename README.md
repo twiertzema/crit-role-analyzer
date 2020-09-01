@@ -8,14 +8,14 @@ A silly little Python program to analyze the runtime of Critical Role.
 
 |                    |             |
 |--------------------|-------------|
-| Runtime            | 49:20:57:43 |
-| Runtime (no Talks) | 41:21:22:07 |
+| Runtime            | 50:13:22:30 |
+| Runtime (no Talks) | 42:13:46:54 |
 
 ### Averages
 
 |                              |         |
 |------------------------------|---------|
-| Main episode length          | 3:45:05 |
-| Runtime / week               | 4:15:35 |
-| Runtime / week (no Talks)    | 3:18:17 |
-| Runtime / week (since Talks) | 6:11:34 |
+| Main episode length          | 3:46:13 |
+| Runtime / week               | 4:15:27 |
+| Runtime / week (no Talks)    | 3:35:07 |
+| Runtime / week (since Talks) | 6:09:01 |

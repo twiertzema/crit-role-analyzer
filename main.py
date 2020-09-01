@@ -4,6 +4,7 @@ from datetime import datetime
 from functools import reduce
 
 from constants import FIRST_EP, MY_CURRENT_EP
+from fetch_episodes import fetch_episodes
 
 MIKE_EP = "/wiki/Stalker_in_the_Swamp"
 
@@ -148,4 +149,5 @@ def main():
 
 
 if __name__ == "__main__":
+    # fetch_episodes()
     main()

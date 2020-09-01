@@ -2912,9 +2912,30 @@
     "href": "/wiki/Maritime_Mysteries"
   },
   {
-    "title": "Campaign 2 Episode 104",
+    "title": "The Ruined Sliver",
     "airdate": "2020-07-30 19:00 PDT",
-    "runtime": 0,
-    "href": "/wiki/Campaign_2_Episode_104"
+    "href": "/wiki/The_Ruined_Sliver",
+    "runtime": 14136,
+    "next_href": "/wiki/Rumble_at_Rumblecusp"
+  },
+  {
+    "title": "Rumble at Rumblecusp",
+    "airdate": "2020-08-06 19:00 PDT",
+    "href": "/wiki/Rumble_at_Rumblecusp",
+    "runtime": 16941,
+    "next_href": "/wiki/A_Fog_Lifted"
+  },
+  {
+    "title": "A Fog Lifted",
+    "airdate": "2020-08-13 19:00 PDT",
+    "href": "/wiki/A_Fog_Lifted",
+    "runtime": 13973,
+    "next_href": "/wiki/Devoutness_and_Dicks"
+  },
+  {
+    "title": "Devoutness and Dicks",
+    "airdate": "2020-08-27 19:00 PDT",
+    "href": "/wiki/Devoutness_and_Dicks",
+    "runtime": 14037
   }
 ]
