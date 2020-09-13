@@ -2936,6 +2936,20 @@
     "title": "Devoutness and Dicks",
     "airdate": "2020-08-27 19:00 PDT",
     "href": "/wiki/Devoutness_and_Dicks",
-    "runtime": 14037
+    "runtime": 14037,
+    "next_href": "/wiki/Traveler_Con"
+  },
+  {
+    "title": "Traveler Con (episode)",
+    "airdate": "2020-09-03 19:00 PDT",
+    "href": "/wiki/Traveler_Con",
+    "runtime": 14505,
+    "next_href": "/wiki/Campaign_2_Episode_109"
+  },
+  {
+    "title": "Campaign 2 Episode 109",
+    "airdate": "2020-09-10 19:00 PDT",
+    "href": "/wiki/Campaign_2_Episode_109",
+    "runtime": 0
   }
 ]
