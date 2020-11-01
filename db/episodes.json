@@ -2944,12 +2944,75 @@
     "airdate": "2020-09-03 19:00 PDT",
     "href": "/wiki/Traveler_Con",
     "runtime": 14505,
-    "next_href": "/wiki/Campaign_2_Episode_109"
+    "next_href": "/wiki/Frigid_Propositions"
   },
   {
-    "title": "Campaign 2 Episode 109",
+    "title": "Frigid Propositions",
     "airdate": "2020-09-10 19:00 PDT",
-    "href": "/wiki/Campaign_2_Episode_109",
+    "href": "/wiki/Frigid_Propositions",
+    "runtime": 14069,
+    "next_href": "/wiki/Talks_Machina_Episode_146"
+  },
+  {
+    "title": "Talks Machina Episode 146",
+    "airdate": "2020-09-15 19:00 PDT",
+    "href": "/wiki/Talks_Machina_Episode_146",
+    "runtime": 5193,
+    "next_href": "/wiki/Dinner_with_the_Devil"
+  },
+  {
+    "title": "Dinner with the Devil",
+    "airdate": "2020-09-17 19:00 PDT",
+    "href": "/wiki/Dinner_with_the_Devil",
+    "runtime": 14850,
+    "next_href": "/wiki/New_Homes_and_Old_Friends"
+  },
+  {
+    "title": "New Homes and Old Friends",
+    "airdate": "2020-09-24 19:00 PDT",
+    "href": "/wiki/New_Homes_and_Old_Friends",
+    "runtime": 12898,
+    "next_href": "/wiki/Talks_Machina_Episode_147"
+  },
+  {
+    "title": "Talks Machina Episode 147",
+    "airdate": "2020-09-29 19:00 PDT",
+    "href": "/wiki/Talks_Machina_Episode_147",
+    "runtime": 6007,
+    "next_href": "/wiki/Talks_Machina_Episode_148"
+  },
+  {
+    "title": "Talks Machina Episode 148",
+    "airdate": "2020-10-13 19:00 PDT",
+    "href": "/wiki/Talks_Machina_Episode_148",
+    "runtime": 5839,
+    "next_href": "/wiki/The_Chase_Begins"
+  },
+  {
+    "title": "The Chase Begins",
+    "airdate": "2020-10-15 19:00 PDT",
+    "href": "/wiki/The_Chase_Begins",
+    "runtime": 15609,
+    "next_href": "/wiki/A_Heart_Grown_Cold"
+  },
+  {
+    "title": "A Heart Grown Cold",
+    "airdate": "2020-10-22 19:00 PDT",
+    "href": "/wiki/A_Heart_Grown_Cold",
+    "runtime": 14752,
+    "next_href": "/wiki/Talks_Machina_Episode_149"
+  },
+  {
+    "title": "Talks Machina Episode 149",
+    "airdate": "2020-10-27 19:00 PDT",
+    "href": "/wiki/Talks_Machina_Episode_149",
+    "runtime": 4836,
+    "next_href": "/wiki/Campaign_2_Episode_114"
+  },
+  {
+    "title": "Campaign 2 Episode 114",
+    "airdate": "2020-10-29 19:00 PDT",
+    "href": "/wiki/Campaign_2_Episode_114",
     "runtime": 0
   }
 ]
