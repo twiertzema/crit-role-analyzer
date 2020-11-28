@@ -3007,12 +3007,40 @@
     "airdate": "2020-10-27 19:00 PDT",
     "href": "/wiki/Talks_Machina_Episode_149",
     "runtime": 4836,
-    "next_href": "/wiki/Campaign_2_Episode_114"
+    "next_href": "/wiki/An_Open_Window"
   },
   {
-    "title": "Campaign 2 Episode 114",
+    "title": "An Open Window",
     "airdate": "2020-10-29 19:00 PDT",
-    "href": "/wiki/Campaign_2_Episode_114",
-    "runtime": 0
+    "href": "/wiki/An_Open_Window",
+    "runtime": 13365,
+    "next_href": "/wiki/Fetching_Fables_%26_Frosty_Friends"
+  },
+  {
+    "title": "Fetching Fables & Frosty Friends",
+    "airdate": "2020-11-05 19:00 PST",
+    "href": "/wiki/Fetching_Fables_%26_Frosty_Friends",
+    "runtime": 14803,
+    "next_href": "/wiki/Talks_Machina_Episode_150"
+  },
+  {
+    "title": "Talks Machina Episode 150",
+    "airdate": "2020-11-10 19:00 PST",
+    "href": "/wiki/Talks_Machina_Episode_150",
+    "runtime": 4079,
+    "next_href": "/wiki/Under_Timeless_Ice"
+  },
+  {
+    "title": "Under Timeless Ice",
+    "airdate": "2020-11-12 19:00 PST",
+    "href": "/wiki/Under_Timeless_Ice",
+    "runtime": 14803,
+    "next_href": "/wiki/The_Tortoise_and_The_Dare"
+  },
+  {
+    "title": "The Tortoise and The Dare",
+    "airdate": "2020-11-19 19:00 PST",
+    "href": "/wiki/The_Tortoise_and_The_Dare",
+    "runtime": 15364
   }
 ]
