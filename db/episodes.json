@@ -3041,6 +3041,34 @@
     "title": "The Tortoise and The Dare",
     "airdate": "2020-11-19 19:00 PST",
     "href": "/wiki/The_Tortoise_and_The_Dare",
-    "runtime": 15364
+    "runtime": 15364,
+    "next_href": "/wiki/Solace_Between_the_Secrets"
+  },
+  {
+    "title": "Solace Between the Secrets",
+    "airdate": "2020-12-03 19:00 PST",
+    "href": "/wiki/Solace_Between_the_Secrets",
+    "runtime": 16292,
+    "next_href": "/wiki/Malice_and_Mystery_Below"
+  },
+  {
+    "title": "Malice and Mystery Below",
+    "airdate": "2020-12-10 19:00 PST",
+    "href": "/wiki/Malice_and_Mystery_Below",
+    "runtime": 12448,
+    "next_href": "/wiki/Talks_Machina_Episode_151"
+  },
+  {
+    "title": "Talks Machina Episode 151",
+    "airdate": "2020-12-15 19:00 PST",
+    "href": "/wiki/Talks_Machina_Episode_151",
+    "runtime": 5205,
+    "next_href": "/wiki/Contentious_Company"
+  },
+  {
+    "title": "Contentious Company",
+    "airdate": "2020-12-17 19:00 PST",
+    "href": "/wiki/Contentious_Company",
+    "runtime": 13841
   }
 ]
